@@ -13,4 +13,4 @@ Plotly was used for plotting purposes.
 
 ![Scatter plot](images/qb_scatter.png)
 
-![Bar plot](images/rb_bar.png)
+![Bar plot](images/te_bar.png)
