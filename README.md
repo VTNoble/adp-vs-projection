@@ -6,6 +6,11 @@ Pandas was used to clean and merge two DataFrames that were used for analysis. S
 Plotly was used for plotting purposes. 
 * Scatter plots were made to show the relatonship between ADP and projected fantasy points.
     * Hover text is used to add important context of which player is represented by each dot, as well as their exact ADP and projected fantasy points.
-    
+
 * Relative bar charts were made to show the difference between a players ADP ranking and their projected fantasy points ranking.
     * A positive bar indicates a player is expected to outperform their ADP, while a negative bar indicates an expected underperformance by the player.
+
+
+![Scatter plot](images/qb_scatter.png)
+
+![Bar plot](images/rb_bar.png)
