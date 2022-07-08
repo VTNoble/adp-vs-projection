@@ -11,6 +11,6 @@ Plotly was used for plotting purposes.
     * A positive bar indicates a player is expected to outperform their ADP, while a negative bar indicates an expected underperformance by the player.
 
 
-![Scatter plot](images/qb_scatter.png)
+![Scatter plot](images/wr_scatter.png)
 
-![Bar plot](images/te_bar.png)
+![Bar plot](images/qb_bar.png)
