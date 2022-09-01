@@ -1,488 +1,488 @@
 Date,Redraft PPR ADP,Redraft SF ADP,Redraft Half PPR ADP,Dynasty PPR ADP,Dynasty SF ADP,Dynasty Half PPR ADP,IDP ADP,Player Team,Player First Name,Player Last Name,Fantasy Player Position,Player Id,Positional Rank
-"August 10, 2022",1.4,2.9,1.4,1.8,4.2,1.5,1.2,IND,Jonathan,Taylor,RB,6813,RB1
-"August 10, 2022",2.9,7.1,2.1,6.9,14.0,5.7,9.7,CAR,Christian,McCaffrey,RB,4034,RB2
-"August 10, 2022",3.8,14.6,3.1,12.3,31.7,11.0,17.8,TEN,Derrick,Henry,RB,3198,RB3
-"August 10, 2022",4.1,10.1,4.1,9.7,20.9,10.1,11.9,LAC,Austin,Ekeler,RB,4663,RB4
-"August 10, 2022",5.2,7.8,5.5,5.9,13.3,6.5,8.0,LAR,Cooper,Kupp,WR,4039,WR1
-"August 10, 2022",6.9,11.7,6.9,3.5,7.2,3.8,4.2,MIN,Justin,Jefferson,WR,6794,WR2
-"August 10, 2022",7.3,17.5,7.7,10.3,28.5,12.7,18.9,MIN,Dalvin,Cook,RB,4029,RB5
-"August 10, 2022",7.5,13.0,7.4,4.9,10.3,4.3,6.9,PIT,Najee,Harris,RB,7528,RB6
-"August 10, 2022",9.7,12.1,9.4,2.2,6.6,2.2,3.6,CIN,Ja'Marr,Chase,WR,7564,WR3
-"August 10, 2022",10.6,21.7,10.7,13.7,24.0,13.0,20.4,CIN,Joe,Mixon,RB,4018,RB7
-"August 10, 2022",11.8,22.4,11.7,15.5,27.5,15.3,21.0,LV,Davante,Adams,WR,2133,WR4
-"August 10, 2022",12.7,15.5,12.6,27.6,34.5,31.3,27.2,KC,Travis,Kelce,TE,1466,TE1
-"August 10, 2022",13.5,23.8,14.4,18.1,29.5,19.8,23.4,BUF,Stefon,Diggs,WR,2449,WR5
-"August 10, 2022",14.3,25.5,13.8,7.4,17.8,7.3,13.6,DET,D'Andre,Swift,RB,6790,RB8
-"August 10, 2022",15.1,27.9,15.2,11.7,15.3,9.1,14.4,DAL,CeeDee,Lamb,WR,6786,WR6
-"August 10, 2022",15.6,30.2,15.9,20.2,39.5,21.2,25.8,CLE,Nick,Chubb,RB,4988,RB9
-"August 10, 2022",17.9,31.5,20.9,26.2,37.3,26.9,28.8,MIA,Tyreek,Hill,WR,3321,WR7
-"August 10, 2022",18.2,20.5,21.5,25.3,18.7,25.4,22.9,BAL,Mark,Andrews,TE,5012,TE2
-"August 10, 2022",19.8,1.4,22.7,14.6,1.7,15.4,2.2,BUF,Josh,Allen,QB,4984,QB1
-"August 10, 2022",20.5,33.8,17.3,21.6,41.0,23.7,29.2,NO,Alvin,Kamara,RB,4035,RB10
-"August 10, 2022",21.7,36.3,19.2,34.8,58.5,34.7,39.1,GB,Aaron,Jones,RB,4199,RB11
-"August 10, 2022",22.1,31.3,23.2,17.2,26.4,18.1,23.9,SF,Deebo,Samuel,WR,5872,WR8
-"August 10, 2022",23.5,35.6,23.8,7.1,15.7,7.7,12.8,DEN,Javonte,Williams,RB,7588,RB12
-"August 10, 2022",23.9,34.5,18.5,29.2,39.8,28.7,33.8,NYG,Saquon,Barkley,RB,4866,RB13
-"August 10, 2022",25.9,39.0,25.4,46.5,63.8,49.0,50.6,TB,Leonard,Fournette,RB,3969,RB14
-"August 10, 2022",26.5,39.9,26.6,44.7,60.0,43.4,49.3,TB,Mike,Evans,WR,2216,WR9
-"August 10, 2022",27.5,41.1,27.1,22.8,25.5,20.1,26.9,PHI,A.J.,Brown,WR,5859,WR10
-"August 10, 2022",28.3,29.6,29.3,15.0,11.8,14.5,19.1,ATL,Kyle,Pitts,TE,7553,TE3
-"August 10, 2022",29.5,45.1,31.3,51.8,70.4,55.6,53.7,LAC,Keenan,Allen,WR,1479,WR11
-"August 10, 2022",30.2,49.3,28.9,52.2,69.8,50.5,57.5,DAL,Ezekiel,Elliott,RB,3164,RB15
-"August 10, 2022",31.3,44.3,30.8,53.2,72.0,52.4,59.4,ARI,James,Conner,RB,4137,RB16
-"August 10, 2022",31.8,4.0,31.3,23.1,2.3,23.3,7.4,KC,Patrick,Mahomes,QB,4046,QB2
-"August 10, 2022",33.8,47.1,33.6,31.3,35.8,31.1,34.8,CIN,Tee,Higgins,WR,6801,WR12
-"August 10, 2022",34.1,3.9,36.1,23.5,3.1,22.3,5.5,LAC,Justin,Herbert,QB,6797,QB3
-"August 10, 2022",35.0,50.7,34.2,30.8,45.5,29.0,39.2,LAR,Cam,Akers,RB,6938,RB17
-"August 10, 2022",36.6,51.9,35.3,39.9,55.8,40.0,43.3,CHI,David,Montgomery,RB,5892,RB18
-"August 10, 2022",37.6,42.1,38.1,42.2,43.6,41.5,38.7,SF,George,Kittle,TE,4217,TE4
-"August 10, 2022",38.0,47.4,43.7,49.2,55.3,51.6,44.6,LV,Darren,Waller,TE,2505,TE5
-"August 10, 2022",39.2,58.7,39.6,37.7,52.0,38.6,45.8,PIT,Diontae,Johnson,WR,5937,WR13
-"August 10, 2022",39.8,60.9,41.4,36.1,59.7,39.6,46.5,WAS,Terry,McLaurin,WR,5927,WR14
-"August 10, 2022",41.7,46.2,37.9,19.1,22.9,17.4,30.4,NYJ,Breece,Hall,RB,8155,RB19
-"August 10, 2022",42.2,55.5,42.4,43.5,49.9,42.4,47.1,IND,Michael,Pittman,WR,6819,WR15
-"August 10, 2022",43.2,52.9,45.3,28.2,33.6,27.2,31.3,MIA,Jaylen,Waddle,WR,7526,WR16
-"August 10, 2022",44.0,53.1,39.6,38.9,44.4,36.5,42.7,JAX,Travis,Etienne,RB,7543,RB20
-"August 10, 2022",45.9,63.0,46.5,47.0,51.9,45.9,51.0,CAR,DJ,Moore,WR,4983,WR17
-"August 10, 2022",46.9,55.7,44.3,35.1,53.6,37.5,41.5,WAS,Antonio,Gibson,RB,6945,RB21
-"August 10, 2022",47.2,62.9,47.3,54.6,67.9,53.2,58.2,LV,Josh,Jacobs,RB,5850,RB22
-"August 10, 2022",47.5,57.7,47.4,31.6,38.3,30.6,37.7,SEA,DK,Metcalf,WR,5846,WR18
-"August 10, 2022",49.8,5.0,49.0,41.9,7.3,44.4,15.4,BAL,Lamar,Jackson,QB,4881,QB4
-"August 10, 2022",50.9,70.6,53.8,55.6,63.7,54.5,61.0,DEN,Jerry,Jeudy,WR,6783,WR19
-"August 10, 2022",51.1,74.4,52.6,75.6,89.7,75.4,94.2,DEN,Courtland,Sutton,WR,5045,WR20
-"August 10, 2022",52.6,6.1,57.9,33.0,5.8,33.9,10.9,CIN,Joe,Burrow,QB,6770,QB5
-"August 10, 2022",53.7,63.3,51.2,69.9,87.2,67.0,82.8,LAC,Mike,Williams,WR,4068,WR21
-"August 10, 2022",54.2,65.0,50.0,39.2,47.2,35.9,47.3,BAL,J.K.,Dobbins,RB,6806,RB23
-"August 10, 2022",55.2,69.1,54.5,59.6,78.2,58.8,69.6,SF,Elijah,Mitchell,RB,7561,RB24
-"August 10, 2022",55.8,71.9,55.3,63.3,85.8,65.5,76.3,CLE,Amari,Cooper,WR,2309,WR22
-"August 10, 2022",57.8,9.2,55.4,48.0,9.1,47.9,15.3,ARI,Kyler,Murray,QB,5849,QB6
-"August 10, 2022",58.2,61.5,62.3,67.8,76.6,71.1,67.9,DAL,Dalton,Schultz,TE,5001,TE6
-"August 10, 2022",59.3,67.7,58.1,62.1,75.1,62.1,72.0,ARI,Marquise,Brown,WR,5848,WR23
-"August 10, 2022",60.2,79.2,59.3,92.7,103.8,90.9,109.9,LAR,Allen,Robinson,WR,1992,WR24
-"August 10, 2022",61.9,68.0,65.5,55.4,61.4,60.1,60.9,DET,T.J.,Hockenson,TE,5844,TE7
-"August 10, 2022",62.7,76.9,60.6,58.2,68.2,57.5,62.4,TB,Chris,Godwin,WR,4037,WR25
-"August 10, 2022",63.3,81.9,63.7,70.7,92.2,68.4,83.1,KC,Clyde,Edwards-Helaire,RB,6820,RB25
-"August 10, 2022",63.6,75.8,61.0,94.7,106.1,95.0,110.4,HOU,Brandin,Cooks,WR,2197,WR26
-"August 10, 2022",65.6,78.1,69.7,66.2,84.8,70.6,79.1,DET,Amon-Ra,St. Brown,WR,7547,WR27
-"August 10, 2022",66.1,73.6,63.4,61.2,79.8,59.9,75.0,GB,AJ,Dillon,RB,6828,RB26
-"August 10, 2022",67.6,19.9,66.2,68.1,19.9,73.0,35.7,PHI,Jalen,Hurts,QB,6904,QB7
-"August 10, 2022",68.7,92.5,71.5,91.1,107.1,93.4,113.1,NO,Michael,Thomas,WR,3199,WR28
-"August 10, 2022",69.4,87.8,67.5,79.8,97.1,79.1,99.4,PHI,Miles,Sanders,RB,6151,RB27
-"August 10, 2022",70.9,79.1,71.8,74.3,86.2,76.5,85.7,CHI,Darnell,Mooney,WR,7090,WR29
-"August 10, 2022",71.3,89.3,74.3,81.5,95.1,82.8,101.1,KC,JuJu,Smith-Schuster,WR,4040,WR30
-"August 10, 2022",71.4,103.8,70.2,105.7,127.8,105.1,133.6,MIN,Adam,Thielen,WR,1689,WR31
-"August 10, 2022",73.9,85.1,68.6,77.3,101.3,78.6,97.3,NE,Damien,Harris,RB,5890,RB28
-"August 10, 2022",74.5,100.3,79.2,87.5,105.7,85.8,105.4,ARI,DeAndre,Hopkins,WR,1426,WR32
-"August 10, 2022",75.4,18.6,82.4,79.7,21.4,84.3,36.5,DEN,Russell,Wilson,QB,1234,QB8
-"August 10, 2022",76.5,77.3,81.9,83.1,90.6,86.1,89.9,PHI,Dallas,Goedert,TE,5022,TE8
-"August 10, 2022",77.5,86.7,76.4,73.3,79.1,69.2,88.0,BAL,Rashod,Bateman,WR,7571,WR33
-"August 10, 2022",78.9,83.5,73.8,50.7,54.7,46.4,65.1,SEA,Kenneth,Walker,RB,8151,RB29
-"August 10, 2022",79.4,94.3,75.0,45.2,46.3,47.4,64.0,ATL,Drake,London,WR,8112,WR34
-"August 10, 2022",79.4,102.9,77.5,90.3,108.1,87.3,116.4,CLE,Kareem,Hunt,RB,4098,RB30
-"August 10, 2022",81.8,26.7,85.9,118.0,73.9,125.2,81.3,TB,Tom,Brady,QB,167,QB9
-"August 10, 2022",82.4,93.2,79.7,95.4,99.3,92.5,117.7,BUF,Gabe,Davis,WR,6943,WR35
-"August 10, 2022",83.8,95.6,87.2,63.5,74.2,63.3,70.7,PHI,DeVonta,Smith,WR,7525,WR36
-"August 10, 2022",84.6,15.9,78.1,71.1,12.5,72.0,31.0,DAL,Dak,Prescott,QB,3294,QB10
-"August 10, 2022",85.5,105.3,84.1,100.0,133.2,103.0,137.6,ATL,Cordarrelle,Patterson,RB,1535,RB31
-"August 10, 2022",86.8,99.6,86.1,85.7,102.3,83.1,107.8,DAL,Tony,Pollard,RB,5967,RB32
-"August 10, 2022",87.6,84.0,94.8,114.3,124.2,121.2,123.0,ARI,Zach,Ertz,TE,1339,TE9
-"August 10, 2022",87.8,101.0,90.4,86.6,103.9,87.5,106.9,LV,Hunter,Renfrow,WR,5955,WR37
-"August 10, 2022",89.5,103.7,87.1,78.6,83.8,77.6,95.6,NYJ,Elijah,Moore,WR,7596,WR38
-"August 10, 2022",90.3,97.3,83.4,57.6,62.4,55.3,73.7,TEN,Treylon,Burks,WR,8135,WR39
-"August 10, 2022",91.1,98.2,93.1,89.1,98.7,94.0,103.9,BUF,Dawson,Knox,TE,5906,TE10
-"August 10, 2022",92.6,106.9,89.5,103.4,123.8,101.4,125.4,BUF,Devin,Singletary,RB,6130,RB33
-"August 10, 2022",93.6,108.2,91.4,113.0,132.0,110.9,147.0,SEA,Rashaad,Penny,RB,4985,RB34
-"August 10, 2022",94.7,116.1,95.9,116.7,130.2,119.4,146.2,SEA,Tyler,Lockett,WR,2374,WR40
-"August 10, 2022",95.1,28.3,100.5,108.3,47.9,115.8,63.6,GB,Aaron,Rodgers,QB,96,QB11
-"August 10, 2022",95.8,111.3,92.3,103.8,125.5,100.9,135.2,MIA,Chase,Edmonds,RB,5000,RB35
-"August 10, 2022",97.0,109.8,98.2,95.2,100.5,91.8,115.0,SF,Brandon,Aiyuk,WR,6803,WR41
-"August 10, 2022",98.0,23.4,99.5,99.8,31.9,107.4,52.1,LAR,Matthew,Stafford,QB,421,QB12
-"August 10, 2022",99.5,115.0,95.3,60.9,66.7,61.4,86.5,NYJ,Garrett,Wilson,WR,8146,WR42
-"August 10, 2022",100.5,113.3,102.8,71.2,87.7,66.0,103.5,BUF,James,Cook,RB,8138,RB36
-"August 10, 2022",101.6,118.8,97.8,65.9,77.9,63.6,91.1,NO,Chris,Olave,WR,8144,WR43
-"August 10, 2022",102.1,119.2,101.3,126.9,147.3,123.9,155.8,DEN,Melvin,Gordon,RB,2320,RB37
-"August 10, 2022",103.3,122.8,105.1,125.0,146.9,124.2,164.7,GB,Allen,Lazard,WR,5185,WR44
-"August 10, 2022",103.3,123.8,103.0,129.6,151.5,129.4,171.4,TEN,Robert,Woods,WR,1352,WR45
-"August 10, 2022",105.1,107.5,109.7,88.0,93.2,89.3,92.1,PIT,Pat,Freiermuth,TE,7600,TE11
-"August 10, 2022",106.0,38.7,103.2,97.8,23.2,97.8,55.4,SF,Trey,Lance,QB,7610,QB13
-"August 10, 2022",107.6,114.3,111.8,106.6,113.3,114.3,122.0,MIA,Mike,Gesicki,TE,4993,TE12
-"August 10, 2022",108.9,119.7,107.1,111.4,119.8,108.6,145.1,JAX,Christian,Kirk,WR,4950,WR46
-"August 10, 2022",109.6,126.0,108.4,102.0,115.8,99.1,127.4,PIT,Chase,Claypool,WR,6886,WR47
-"August 10, 2022",110.8,125.2,106.5,119.7,127.4,111.3,143.7,NE,Rhamondre,Stevenson,RB,7611,RB38
-"August 10, 2022",111.1,37.0,115.1,127.8,50.8,135.1,74.6,LV,Derek,Carr,QB,2028,QB14
-"August 10, 2022",111.3,124.2,111.1,143.1,153.9,140.4,178.5,TB,Russell,Gage,WR,5110,WR48
-"August 10, 2022",113.0,131.7,114.3,115.5,122.1,113.6,154.2,NYG,Kadarius,Toney,WR,7606,WR49
-"August 10, 2022",114.6,130.9,110.2,84.9,91.0,81.6,131.6,KC,Skyy,Moore,WR,8168,WR50
-"August 10, 2022",115.4,129.8,113.3,107.0,126.5,109.8,138.2,NYJ,Michael,Carter,RB,7607,RB39
-"August 10, 2022",116.9,127.1,123.0,130.1,121.3,132.9,142.6,CHI,Cole,Kmet,TE,6826,TE13
-"August 10, 2022",117.8,149.9,119.4,111.4,142.0,116.6,161.1,JAX,James,Robinson,RB,6955,RB40
-"August 10, 2022",118.4,134.9,117.0,109.3,119.4,103.4,132.0,LAC,Isaiah,Spiller,RB,8153,RB41
-"August 10, 2022",119.5,138.3,122.1,124.2,140.9,122.8,173.8,MIN,Alexander,Mattison,RB,5987,RB42
-"August 10, 2022",119.7,135.4,126.8,139.5,162.4,145.3,179.7,CIN,Tyler,Boyd,WR,3225,WR51
-"August 10, 2022",121.8,43.6,124.4,164.3,81.5,169.5,111.3,MIN,Kirk,Cousins,QB,1166,QB15
-"August 10, 2022",122.8,127.8,134.4,146.7,143.4,151.2,170.9,DEN,Albert,Okwuegbunam,TE,6843,TE14
-"August 10, 2022",123.9,140.9,127.9,143.0,157.5,150.1,172.9,NE,Hunter,Henry,TE,3214,TE15
-"August 10, 2022",124.3,278.7,164.8,215.6,,243.4,,BUF,Buffalo,Bills,DEF,BUF,DEF1
-"August 10, 2022",125.8,279.2,167.3,218.5,,245.8,,LAR,Los Angeles,Rams,DEF,LAR,DEF2
-"August 10, 2022",126.9,282.9,166.4,219.3,,244.5,,TB,Tampa Bay,Buccaneers,DEF,TB,DEF3
-"August 10, 2022",127.5,283.9,167.8,221.2,,246.5,,SF,San Francisco,49ers,DEF,SF,DEF4
-"August 10, 2022",128.0,143.7,119.7,82.7,95.3,79.3,130.5,GB,Christian,Watson,WR,8167,WR52
-"August 10, 2022",129.8,137.0,116.9,98.1,111.8,98.1,151.6,HOU,Dameon,Pierce,RB,8129,RB43
-"August 10, 2022",130.9,141.8,121.9,160.0,172.0,154.7,226.9,KC,Marquez,Valdes-Scantling,WR,5086,WR53
-"August 10, 2022",131.3,132.0,118.0,132.4,151.4,126.1,177.2,KC,Ronald,Jones,RB,5052,RB44
-"August 10, 2022",132.5,147.7,131.9,162.6,178.1,163.7,185.4,NO,Jarvis,Landry,WR,1825,WR54
-"August 10, 2022",133.9,145.9,127.1,151.5,171.8,153.8,181.7,IND,Nyheim,Hines,RB,5347,RB45
-"August 10, 2022",134.0,54.2,129.2,135.6,57.3,141.2,93.4,MIA,Tua,Tagovailoa,QB,6768,QB16
-"August 10, 2022",135.7,135.4,142.1,141.1,145.5,143.8,174.9,MIN,Irv,Smith,TE,6126,TE16
-"August 10, 2022",135.9,139.7,125.9,122.8,131.9,118.3,169.2,DAL,Michael,Gallup,WR,5038,WR55
-"August 10, 2022",137.8,148.8,138.0,134.9,148.9,133.7,175.7,ARI,Rondale,Moore,WR,7601,WR56
-"August 10, 2022",138.9,151.8,132.1,142.8,166.2,139.0,182.1,LAR,Darrell,Henderson,RB,5916,RB46
-"August 10, 2022",139.9,153.8,130.4,117.7,116.8,111.6,162.4,TB,Rachaad,White,RB,8136,RB47
-"August 10, 2022",140.1,91.8,140.1,93.2,30.6,95.5,68.0,CLE,Deshaun,Watson,QB,4017,QB17
-"August 10, 2022",141.0,158.3,133.1,121.4,134.8,117.9,175.5,ATL,Tyler,Allgeier,RB,8132,RB48
-"August 10, 2022",142.5,59.2,135.5,127.0,42.4,127.2,87.7,CHI,Justin,Fields,QB,7591,QB18
-"August 10, 2022",143.4,157.1,141.3,110.0,114.4,106.8,156.2,WAS,Jahan,Dotson,WR,8119,WR57
-"August 10, 2022",143.5,142.3,135.9,76.1,82.9,74.9,111.9,DET,Jameson,Williams,WR,8148,WR58
-"August 10, 2022",145.8,159.5,137.5,167.6,180.8,165.1,230.3,HOU,Marlon,Mack,RB,4152,RB49
-"August 10, 2022",146.4,151.6,158.0,169.2,179.4,183.8,223.5,LAR,Tyler,Higbee,TE,3271,TE17
-"August 10, 2022",147.9,167.2,143.8,101.6,109.5,102.8,148.6,PIT,George,Pickens,WR,8137,WR59
-"August 10, 2022",148.0,143.5,154.9,123.9,129.2,127.5,150.7,SEA,Noah,Fant,TE,5857,TE18
-"August 10, 2022",149.3,159.9,139.9,165.6,175.4,162.8,246.9,NYG,Kenny,Golladay,WR,4131,WR60
-"August 10, 2022",150.1,156.7,151.2,151.4,158.1,158.2,180.7,CLE,David,Njoku,TE,4033,TE19
-"August 10, 2022",151.1,279.3,195.0,217.7,,282.5,271.9,BAL,Justin,Tucker,K,1264,K1
-"August 10, 2022",152.0,281.6,196.0,215.2,,281.7,271.8,CIN,Evan,McPherson,K,7839,K2
-"August 10, 2022",153.3,292.6,205.3,225.6,,295.7,,BAL,Baltimore,Ravens,DEF,BAL,DEF5
-"August 10, 2022",154.7,290.7,197.7,224.0,,285.1,275.1,KC,Harrison,Butker,K,4227,K3
-"August 10, 2022",155.7,287.4,198.0,223.5,,289.5,,LAC,Los Angeles,Chargers,DEF,LAC,DEF6
-"August 10, 2022",156.6,285.3,201.7,220.1,,284.6,274.5,LV,Daniel,Carlson,K,5095,K4
-"August 10, 2022",157.4,286.4,202.4,226.7,,286.3,276.7,LAR,Matt,Gay,K,6083,K5
-"August 10, 2022",158.1,295.5,199.4,236.5,,291.6,354.7,ARI,Matt,Prater,K,17,K6
-"August 10, 2022",159.6,291.3,210.5,231.2,,290.2,,NO,New Orleans,Saints,DEF,NO,DEF7
-"August 10, 2022",160.0,284.4,165.9,227.3,,287.8,,DAL,Dallas,Cowboys,DEF,DAL,DEF8
-"August 10, 2022",161.7,287.5,203.9,222.8,,283.6,273.7,BUF,Tyler,Bass,K,7042,K7
-"August 10, 2022",162.9,293.8,209.3,234.2,,299.0,279.5,NE,Nick,Folk,K,650,K8
-"August 10, 2022",163.3,295.6,207.4,229.4,,287.0,277.5,ATL,Younghoe,Koo,K,4666,K9
-"August 10, 2022",164.7,188.0,149.1,196.9,231.7,204.3,318.1,TB,Julio,Jones,WR,947,WR61
-"August 10, 2022",165.3,155.7,143.9,157.1,161.9,156.1,183.8,NE,Jakobi,Meyers,WR,5947,WR62
-"August 10, 2022",166.8,164.8,150.0,173.5,197.2,170.4,255.3,NE,DeVante,Parker,WR,2319,WR63
-"August 10, 2022",167.7,163.6,147.1,171.6,203.8,174.8,259.9,WAS,J.D.,McKissic,RB,3664,RB50
-"August 10, 2022",168.0,180.1,159.9,186.3,237.0,207.5,308.1,NO,Mark,Ingram,RB,956,RB51
-"August 10, 2022",169.2,165.2,145.5,161.7,170.5,159.0,225.4,PHI,Kenneth,Gainwell,RB,7567,RB52
-"August 10, 2022",170.1,170.0,155.1,148.2,155.2,142.5,234.3,DAL,Jalen,Tolbert,WR,8117,WR64
-"August 10, 2022",171.6,66.3,146.0,119.8,36.6,119.4,77.3,JAX,Trevor,Lawrence,QB,7523,QB19
-"August 10, 2022",172.3,87.9,169.2,185.9,110.9,198.3,188.3,NO,Jameis,Winston,QB,2306,QB20
-"August 10, 2022",173.1,169.1,156.2,159.4,177.4,159.1,247.3,KC,Mecole,Hardman,WR,5917,WR65
-"August 10, 2022",174.2,161.8,148.0,155.0,167.3,155.2,183.0,DET,DJ,Chark,WR,4951,WR66
-"August 10, 2022",175.1,71.8,153.1,238.8,118.5,212.7,187.3,IND,Matt,Ryan,QB,24,QB21
-"August 10, 2022",175.7,162.5,172.3,195.6,199.8,196.2,255.2,LAC,Gerald,Everett,TE,4089,TE20
-"August 10, 2022",177.5,168.0,151.5,150.3,165.9,149.2,227.2,CHI,Khalil,Herbert,RB,7608,RB53
-"August 10, 2022",178.4,82.7,170.7,145.9,65.1,146.0,100.8,NE,Mac,Jones,QB,7527,QB22
-"August 10, 2022",179.7,189.4,180.6,204.9,222.6,201.6,324.7,ARI,Darrel,Williams,RB,5549,RB54
-"August 10, 2022",180.8,171.4,159.8,153.6,159.9,143.3,250.9,SF,Tyrion,Davis-Price,RB,8211,RB55
-"August 10, 2022",181.7,187.7,157.6,191.6,223.9,190.2,319.8,MIA,Raheem,Mostert,RB,2749,RB56
-"August 10, 2022",182.4,,206.0,235.1,,295.3,,GB,Green Bay,Packers,DEF,GB,DEF9
-"August 10, 2022",183.3,297.8,252.1,237.7,,297.1,356.8,DEN,Brandon,McManus,K,1433,K10
-"August 10, 2022",183.7,,253.5,268.4,,293.0,,DEN,Denver,Broncos,DEF,DEN,DEF10
-"August 10, 2022",185.0,,199.3,233.3,,247.9,,NE,New England,Patriots,DEF,NE,DEF11
-"August 10, 2022",186.2,,204.1,231.2,,294.7,355.9,IND,Rodrigo,Blankenship,K,7062,K11
-"August 10, 2022",187.2,289.2,207.8,230.8,,292.8,,IND,Indianapolis,Colts,DEF,IND,DEF12
-"August 10, 2022",188.4,,211.2,228.6,,247.8,,PIT,Pittsburgh,Steelers,DEF,PIT,DEF13
-"August 10, 2022",189.5,,256.0,,,,,SF,Robbie,Gould,K,49,K12
-"August 10, 2022",190.6,175.6,171.7,188.6,210.4,199.8,262.3,CIN,Hayden,Hurst,TE,4973,TE21
-"August 10, 2022",191.0,172.4,163.2,175.8,206.0,175.7,260.7,DET,Jamaal,Williams,RB,4149,RB57
-"August 10, 2022",192.0,175.3,173.3,194.8,196.0,185.5,266.8,DEN,Tim,Patrick,WR,4351,WR67
-"August 10, 2022",193.0,178.2,162.6,133.3,144.0,130.4,210.4,IND,Alec,Pierce,WR,8142,WR68
-"August 10, 2022",194.1,179.7,161.0,180.9,195.6,173.6,264.0,BAL,Gus,Edwards,RB,5248,RB58
-"August 10, 2022",195.1,191.5,181.9,239.7,238.4,207.5,334.8,GB,Sammy,Watkins,WR,1817,WR69
-"August 10, 2022",196.1,181.4,175.8,190.0,191.0,186.3,269.5,MIN,K.J.,Osborn,WR,7066,WR70
-"August 10, 2022",197.0,185.4,179.3,172.8,191.5,167.9,268.5,LAR,Van,Jefferson,WR,6853,WR71
-"August 10, 2022",198.4,186.3,174.5,149.3,163.5,147.3,242.3,WAS,Brian,Robinson,RB,8154,RB59
-"August 10, 2022",199.4,95.0,177.6,158.0,71.9,164.4,119.8,NYJ,Zach,Wilson,QB,7538,QB23
-"August 10, 2022",199.7,166.2,183.5,189.7,189.1,187.1,253.1,GB,Robert,Tonyan,TE,4602,TE22
-"August 10, 2022",201.6,193.3,178.2,168.0,188.1,175.8,265.4,ATL,Odell,Beckham,WR,2078,WR72
-"August 10, 2022",202.3,173.1,186.5,202.7,212.0,219.4,302.8,TEN,Austin,Hooper,TE,3202,TE23
-"August 10, 2022",203.9,182.3,189.7,210.7,221.5,210.2,338.5,BUF,Jamison,Crowder,WR,2410,WR73
-"August 10, 2022",204.6,200.0,175.8,147.2,174.6,148.6,231.2,CAR,Chuba,Hubbard,RB,7594,RB60
-"August 10, 2022",205.4,207.2,215.1,241.4,232.0,223.2,375.7,IND,Parris,Campbell,WR,5880,WR74
-"August 10, 2022",206.7,191.8,190.7,187.6,194.8,183.5,315.0,LAC,Joshua,Palmer,WR,7670,WR75
-"August 10, 2022",207.9,146.2,218.9,271.5,164.6,252.6,239.4,CAR,Baker,Mayfield,QB,4892,QB24
-"August 10, 2022",207.9,174.2,191.4,182.1,181.8,189.2,254.1,JAX,Evan,Engram,TE,4066,TE24
-"August 10, 2022",209.9,202.5,219.0,191.2,198.3,193.3,314.5,HOU,Nico,Collins,WR,7569,WR76
-"August 10, 2022",210.1,198.4,182.8,138.4,156.5,138.4,222.6,LV,Zamir,White,RB,8139,RB61
-"August 10, 2022",211.2,207.0,220.3,203.6,215.5,218.6,340.9,ATL,Rob,Gronkowski,TE,515,TE25
-"August 10, 2022",212.1,201.3,185.7,198.4,220.4,199.6,337.2,CAR,D'Onta,Foreman,RB,4111,RB62
-"August 10, 2022",213.3,90.1,183.9,253.6,112.0,254.2,190.9,TEN,Ryan,Tannehill,QB,1049,QB25
-"August 10, 2022",214.7,203.3,187.8,243.5,239.3,211.3,347.0,CAR,Robbie,Anderson,WR,3423,WR77
-"August 10, 2022",215.1,205.5,188.4,154.3,159.8,151.2,251.2,NYG,Wan'Dale,Robinson,WR,8126,WR78
-"August 10, 2022",215.8,190.7,215.2,273.5,249.2,253.1,326.9,TB,Cameron,Brate,TE,2214,TE26
-"August 10, 2022",217.4,214.6,231.1,249.1,230.3,222.9,381.8,NE,Kendrick,Bourne,WR,4454,WR79
-"August 10, 2022",218.8,195.9,194.8,183.1,204.9,178.4,316.8,WAS,Curtis,Samuel,WR,4082,WR80
-"August 10, 2022",219.9,199.6,191.7,174.0,183.4,172.6,258.1,CLE,Donovan,Peoples-Jones,WR,6824,WR81
-"August 10, 2022",220.7,111.5,217.2,250.0,139.6,250.2,204.0,NYG,Daniel,Jones,QB,5870,QB26
-"August 10, 2022",221.0,204.4,193.6,140.5,141.6,135.6,218.0,CLE,David,Bell,WR,8118,WR82
-"August 10, 2022",222.4,215.6,223.6,247.9,228.3,215.7,350.7,MIA,Sony,Michel,RB,4962,RB63
-"August 10, 2022",223.5,212.7,241.1,254.3,255.3,235.3,393.8,ARI,A.J.,Green,WR,830,WR83
-"August 10, 2022",223.5,213.2,231.5,258.6,259.1,239.9,,JAX,Marvin,Jones,WR,1067,WR84
-"August 10, 2022",225.3,206.7,228.7,209.6,219.0,197.6,346.1,NYJ,Corey,Davis,WR,4036,WR85
-"August 10, 2022",226.3,,281.9,270.5,,,358.8,NO,Wil,Lutz,K,3678,K13
-"August 10, 2022",227.5,211.6,213.9,179.5,199.5,182.9,270.8,GB,Romeo,Doubs,WR,8121,WR86
-"August 10, 2022",228.0,209.7,212.9,271.5,276.9,249.6,390.2,BUF,Isaiah,McKenzie,WR,4197,WR87
-"August 10, 2022",229.0,239.6,214.1,276.3,250.1,228.0,,CIN,Chris,Evans,RB,7794,RB64
-"August 10, 2022",230.7,217.4,227.9,246.8,253.8,225.0,383.2,LV,Kenyan,Drake,RB,3242,RB65
-"August 10, 2022",231.7,220.1,225.7,245.2,226.4,214.9,386.4,DEN,KJ,Hamler,WR,6805,WR88
-"August 10, 2022",231.8,117.2,223.4,292.7,149.0,271.3,215.7,DET,Jared,Goff,QB,3163,QB27
-"August 10, 2022",233.6,110.4,222.2,282.5,137.3,267.0,201.0,WAS,Carson,Wentz,QB,3161,QB28
-"August 10, 2022",234.2,215.9,243.9,242.0,227.3,220.1,345.3,BAL,Devin,Duvernay,WR,6847,WR89
-"August 10, 2022",235.2,229.5,230.4,170.2,183.2,167.7,311.5,TEN,Hassan,Haskins,RB,8123,RB66
-"August 10, 2022",236.1,196.9,235.4,213.8,193.3,221.7,309.6,HOU,Brevin,Jordan,TE,7568,TE27
-"August 10, 2022",237.0,223.7,239.3,289.7,275.3,268.4,,NO,Taysom,Hill,TE,4381,TE28
-"August 10, 2022",238.8,194.7,238.7,267.8,233.5,257.4,343.3,WAS,Logan,Thomas,TE,2251,TE29
-"August 10, 2022",239.5,226.5,226.9,163.7,175.9,157.8,263.3,ARI,Keaontay,Ingram,RB,8221,RB67
-"August 10, 2022",239.8,121.6,233.6,239.8,117.3,213.7,193.3,HOU,Davis,Mills,QB,7585,QB29
-"August 10, 2022",241.0,247.3,266.9,,281.3,260.4,,TEN,Dontrell,Hilliard,RB,5536,RB68
-"August 10, 2022",242.5,225.9,237.0,206.5,214.6,202.1,343.7,CAR,Terrace,Marshall,WR,7565,WR90
-"August 10, 2022",243.9,227.3,236.0,260.0,236.5,229.5,,LAC,William,Fuller,WR,3157,WR91
-"August 10, 2022",244.2,154.8,247.3,156.4,94.0,161.9,186.3,PIT,Kenny,Pickett,QB,8160,QB30
-"August 10, 2022",245.6,133.2,246.0,291.3,167.4,,278.9,ATL,Marcus,Mariota,QB,2307,QB31
-"August 10, 2022",246.5,231.0,245.6,281.1,287.1,265.4,,GB,Randall,Cobb,WR,928,WR92
-"August 10, 2022",247.7,219.3,247.2,,282.5,,,IND,Mo,Alie-Cox,TE,4054,TE30
-"August 10, 2022",247.9,150.6,262.3,295.3,182.2,,292.9,PIT,Mitch,Trubisky,QB,3976,QB32
-"August 10, 2022",249.7,233.6,249.0,137.2,154.0,134.9,245.6,HOU,John,Metchie,WR,8147,WR93
-"August 10, 2022",250.6,235.2,244.0,177.2,213.9,181.7,332.5,SF,Trey,Sermon,RB,7593,RB69
-"August 10, 2022",251.7,224.0,234.2,251.0,242.9,226.6,,CLE,D'Ernest,Johnson,RB,6694,RB70
-"August 10, 2022",252.9,218.3,242.8,131.2,138.8,131.1,199.1,ARI,Trey,McBride,TE,8130,TE31
-"August 10, 2022",253.5,222.3,250.5,183.8,190.1,180.0,321.9,JAX,Laviska,Shenault,WR,6814,WR94
-"August 10, 2022",254.0,228.9,268.7,295.4,271.6,277.7,,JAX,Zay,Jones,WR,4080,WR95
-"August 10, 2022",255.1,256.0,271.2,298.5,293.9,274.4,,CHI,Byron,Pringle,WR,5199,WR96
-"August 10, 2022",255.6,255.1,267.7,284.2,274.2,241.5,,CIN,Samaje,Perine,RB,4147,RB71
-"August 10, 2022",257.6,236.1,273.5,255.2,234.4,230.6,397.1,ATL,Bryan,Edwards,WR,6870,WR97
-"August 10, 2022",258.8,230.0,277.1,261.2,266.3,278.8,,NYJ,C.J.,Uzomah,TE,2460,TE32
-"August 10, 2022",259.5,273.9,251.4,211.4,268.8,223.8,,MIA,Myles,Gaskin,RB,5980,RB72
-"August 10, 2022",260.7,260.2,239.0,181.8,186.0,177.7,335.5,NE,Tyquan,Thornton,WR,8188,WR98
-"August 10, 2022",261.4,268.4,265.6,201.9,263.4,217.8,353.3,CLE,Chris,Carson,RB,4273,RB73
-"August 10, 2022",262.8,271.8,274.0,199.1,207.3,188.9,261.1,KC,Justyn,Ross,WR,8140,WR99
-"August 10, 2022",263.3,,,,,,,CIN,Cincinnati,Bengals,DEF,CIN,DEF14
-"August 10, 2022",263.9,294.1,254.5,,,,,TB,Kyle,Rudolph,TE,943,TE33
-"August 10, 2022",265.2,,282.4,269.9,,,,CLE,Cleveland,Browns,DEF,CLE,DEF15
-"August 10, 2022",266.2,,283.2,274.1,,,,PHI,Philadelphia,Eagles,DEF,PHI,DEF16
-"August 10, 2022",267.0,,255.4,277.7,,,,MIA,Miami,Dolphins,DEF,MIA,DEF17
-"August 10, 2022",268.5,,285.5,,,298.6,,TEN,Tennessee,Titans,DEF,TEN,DEF18
-"August 10, 2022",269.8,238.4,258.5,,,,,KC,Jerick,McKinnon,RB,2161,RB74
-"August 10, 2022",270.4,298.1,,,277.3,,,BAL,James,Proche,WR,6957,WR100
-"August 10, 2022",271.4,242.4,287.5,244.6,243.4,255.6,394.1,TB,Cade,Otton,TE,8111,TE34
-"August 10, 2022",271.8,243.9,260.5,205.9,218.3,203.7,342.4,KC,Isiah,Pacheco,RB,8205,RB75
-"August 10, 2022",273.6,,257.0,,,,,WAS,Washington,Commanders,DEF,WAS,DEF19
-"August 10, 2022",274.8,245.1,263.9,280.0,254.2,236.9,,ARI,Eno,Benjamin,RB,6951,RB76
-"August 10, 2022",275.7,244.7,221.9,199.2,209.9,194.9,351.2,BAL,Tyler,Badie,RB,8208,RB77
-"August 10, 2022",276.5,252.6,269.1,285.3,292.0,269.3,,PHI,Boston,Scott,RB,5122,RB78
-"August 10, 2022",277.0,239.7,287.1,252.5,235.8,231.2,382.2,NYG,Daniel,Bellinger,TE,8225,TE35
-"August 10, 2022",278.4,258.7,271.8,283.5,284.0,,,LAC,Jalen,Guyton,WR,6421,WR101
-"August 10, 2022",279.7,250.8,291.0,,,,,NYJ,Tyler,Conklin,TE,5133,TE36
-"August 10, 2022",279.9,251.2,229.6,255.6,267.1,227.4,,NYG,Matt,Breida,RB,4455,RB79
-"August 10, 2022",281.2,249.0,,,283.6,,,SF,Jauan,Jennings,WR,7049,WR102
-"August 10, 2022",282.1,247.1,286.5,207.8,211.7,206.7,341.9,DEN,Greg,Dulcich,TE,8172,TE37
-"August 10, 2022",283.6,246.7,263.4,288.0,263.1,263.0,,TEN,Nick,Westbrook-Ikhine,WR,7496,WR103
-"August 10, 2022",284.2,253.9,261.7,212.7,215.0,205.3,351.2,CHI,Velus,Jones,WR,8223,WR104
-"August 10, 2022",285.6,263.7,270.3,257.8,246.9,238.1,,GB,Amari,Rodgers,WR,7540,WR105
-"August 10, 2022",286.0,,299.9,,,,,BAL,Mike,Davis,RB,2431,RB80
-"August 10, 2022",287.3,234.7,276.5,,273.7,,,NE,Jonnu,Smith,TE,4144,TE38
-"August 10, 2022",287.3,259.5,,294.7,262.9,263.9,,MIA,Cedrick,Wilson,WR,5113,WR106
-"August 10, 2022",289.8,177.7,293.7,,187.2,,317.0,SF,Jimmy,Garoppolo,QB,1837,QB33
-"August 10, 2022",290.6,197.5,295.8,193.0,135.6,191.6,223.7,ATL,Desmond,Ridder,QB,8159,QB34
-"August 10, 2022",291.9,237.3,279.8,,245.5,275.0,,NO,Adam,Trautman,TE,6869,TE39
-"August 10, 2022",292.6,261.3,275.3,166.4,173.6,166.7,305.1,IND,Jelani,Woods,TE,8219,TE40
-"August 10, 2022",293.7,,290.4,197.0,202.7,191.6,349.8,NE,Pierre,Strong,RB,8116,RB81
-"August 10, 2022",294.7,276.2,,262.4,257.8,233.8,,TB,Ke'Shawn,Vaughn,RB,6885,RB82
-"August 10, 2022",295.2,271.7,,,,279.9,,NYJ,Braxton,Berrios,WR,5121,WR107
-"August 10, 2022",295.7,277.1,,,,,,ATL,Damien,Williams,RB,1833,RB83
-"August 10, 2022",297.4,269.0,,,297.2,,,NYG,Sterling,Shepard,WR,3200,WR108
-"August 10, 2022",298.6,266.4,279.9,,286.5,,,DAL,James,Washington,WR,5024,WR109
-"August 10, 2022",299.3,275.8,278.4,,,,,NE,James,White,RB,1848,RB84
-"August 10, 2022",,183.1,,,239.3,,365.6,CLE,Jacoby,Brissett,QB,3257,QB35
-"August 10, 2022",,183.7,,,207.7,,359.5,SEA,Drew,Lock,QB,5854,QB36
-"August 10, 2022",,210.7,,,252.6,,,SEA,Geno,Smith,QB,1373,QB37
-"August 10, 2022",,221.0,,,223.6,,,CAR,Sam,Darnold,QB,4943,QB38
-"August 10, 2022",,231.9,289.6,175.5,135.1,179.4,205.0,TEN,Malik,Willis,QB,8161,QB39
-"August 10, 2022",,241.0,259.8,287.6,287.7,251.5,,SF,Jeff,Wilson,RB,5284,RB85
-"August 10, 2022",,254.3,292.2,,291.6,,,LAC,Donald,Parham,TE,6074,TE41
-"August 10, 2022",,257.8,,293.3,255.1,,,CAR,Tommy,Tremble,TE,7694,TE42
-"August 10, 2022",,262.8,,,244.2,,,BAL,Tyler,Huntley,QB,7083,QB40
-"August 10, 2022",,263.8,294.3,247.1,229.5,209.8,,JAX,Snoop,Conner,RB,8179,RB86
-"August 10, 2022",,265.5,,,,,,BUF,O.J.,Howard,TE,4055,TE43
-"August 10, 2022",,267.0,297.8,,,,,HOU,Rex,Burkhead,RB,1387,RB87
-"August 10, 2022",,270.3,,265.5,169.0,234.6,300.1,CAR,Matt,Corral,QB,8164,QB41
-"August 10, 2022",,274.2,,207.7,201.1,195.1,267.1,LAR,Kyren,Williams,RB,8150,RB88
-"August 10, 2022",,299.5,,279.3,279.6,255.8,,PIT,Benny,Snell,RB,6156,RB89
-"August 10, 2022",,,,135.1,150.5,137.7,214.5,ATL,Calvin,Ridley,WR,4981,WR110
-"August 10, 2022",,,,178.3,185.2,171.1,348.7,BUF,Khalil,Shakir,WR,8134,WR111
-"August 10, 2022",,,,,205.7,,377.0,WAS,Sam,Howell,QB,8162,QB42
-"August 10, 2022",,,,286.8,217.5,,389.9,GB,Jordan,Love,QB,6804,QB43
-"August 10, 2022",,,298.6,214.4,225.1,216.0,398.3,PIT,Calvin,Austin,WR,8125,WR112
-"August 10, 2022",,,,,241.9,,,TB,Kyle,Trask,QB,7605,QB44
-"August 10, 2022",,,,263.1,247.2,231.0,,SF,Danny,Gray,WR,8176,WR113
-"August 10, 2022",,,,263.8,247.9,237.9,,TEN,Kyle,Philips,WR,8171,WR114
-"August 10, 2022",,,296.0,259.2,251.0,242.0,,NO,Abram,Smith,RB,8190,RB90
-"August 10, 2022",,,,266.2,258.7,239.7,,MIN,Ty,Chandler,RB,8230,RB91
-"August 10, 2022",,,,290.8,260.4,270.9,,DAL,Jake,Ferguson,TE,8110,TE44
-"August 10, 2022",,,,,261.2,259.5,,CLE,Jerome,Ford,RB,8143,RB92
-"August 10, 2022",,,,,265.2,,,TEN,Chigoziem,Okonkwo,TE,8210,TE45
-"August 10, 2022",,,,,269.4,266.3,,NE,Kevin,Harris,RB,8174,RB93
-"August 10, 2022",,,,,270.5,,,PHI,Gardner,Minshew,QB,6011,QB45
-"August 10, 2022",,,,299.9,271.3,258.9,,NO,Marquez,Callaway,WR,6989,WR115
-"August 10, 2022",,,,278.0,278.7,261.4,,BAL,Isaiah,Likely,TE,8131,TE46
-"August 10, 2022",,,,,279.8,,,MIN,Kellen,Mond,QB,7581,QB46
-"August 10, 2022",,,,,285.4,276.8,,NYJ,Jeremy,Ruckert,TE,8145,TE47
-"August 10, 2022",,,,,289.4,271.7,,CLE,Anthony,Schwartz,WR,7533,WR116
-"August 10, 2022",,,,,290.7,,,NYG,Jashaun,Corbin,RB,8194,RB94
-"August 10, 2022",,,,,294.1,,,MIA,Teddy,Bridgewater,QB,2152,QB47
-"August 10, 2022",,,,,295.1,,,PHI,Quez,Watkins,WR,6927,WR117
-"August 10, 2022",,,,,295.6,279.1,,PHI,Kennedy,Brooks,RB,8152,RB95
-"August 10, 2022",,,,,298.5,273.8,,CHI,Trestan,Ebner,RB,8189,RB96
-"August 10, 2022",,,,297.3,299.4,262.4,,BUF,Zack,Moss,RB,6845,RB97
-"August 10, 2022",,,,275.6,,,,CLE,Cade,York,K,8258,K14
-"August 10, 2022",,,,,,,54.1,DAL,Micah,Parsons,LB,7640,LB1
-"August 10, 2022",,,,,,,55.0,PIT,T.J.,Watt,LB,4070,LB2
-"August 10, 2022",,,,,,,66.1,CHI,Roquan,Smith,LB,4960,LB3
-"August 10, 2022",,,,,,,71.1,IND,Shaquille,Leonard,LB,4990,LB4
-"August 10, 2022",,,,,,,78.6,TB,Devin,White,LB,6119,LB5
-"August 10, 2022",,,,,,,79.9,CLE,Myles,Garrett,DE,3973,DE1
-"August 10, 2022",,,,,,,84.6,SF,Nick,Bosa,DE,5816,DE2
-"August 10, 2022",,,,,,,90.7,SEA,Jordyn,Brooks,LB,6949,LB6
-"August 10, 2022",,,,,,,95.4,LAC,Derwin,James,DB,4971,DB1
-"August 10, 2022",,,,,,,98.6,SF,Fred,Warner,LB,5041,LB7
-"August 10, 2022",,,,,,,102.2,LAR,Aaron,Donald,DT,2227,DT1
-"August 10, 2022",,,,,,,108.1,LAC,Joey,Bosa,LB,3156,LB8
-"August 10, 2022",,,,,,,114.7,JAX,Foye,Oluokun,LB,5332,LB9
-"August 10, 2022",,,,,,,118.8,ARI,Budda,Baker,DB,4081,DB2
-"August 10, 2022",,,,,,,119.1,ARI,Isaiah,Simmons,LB,6781,LB10
-"August 10, 2022",,,,,,,121.4,PIT,Minkah,Fitzpatrick,DB,4963,DB3
-"August 10, 2022",,,,,,,124.3,LAR,Bobby,Wagner,LB,1233,LB11
-"August 10, 2022",,,,,,,126.1,WAS,Chase,Young,DE,6782,DE3
-"August 10, 2022",,,,,,,127.9,SEA,Jamal,Adams,SS,4077,SS1
-"August 10, 2022",,,,,,,129.3,CAR,Jeremy,Chinn,DB,7016,DB4
-"August 10, 2022",,,,,,,134.3,DAL,Trevon,Diggs,CB,6809,CB1
-"August 10, 2022",,,,,,,135.2,CAR,Brian,Burns,DE,5862,DE4
-"August 10, 2022",,,,,,,139.8,LV,Maxx,Crosby,DE,5991,DE5
-"August 10, 2022",,,,,,,140.7,TB,Antoine,Winfield,DB,6888,DB5
-"August 10, 2022",,,,,,,141.9,BAL,Patrick,Queen,LB,6807,LB12
-"August 10, 2022",,,,,,,143.8,NYJ,C.J.,Mosley,LB,1875,LB13
-"August 10, 2022",,,,,,,149.0,MIN,Eric,Kendricks,LB,2350,LB14
-"August 10, 2022",,,,,,,151.9,CIN,Logan,Wilson,LB,6880,LB15
-"August 10, 2022",,,,,,,153.2,DET,Aidan,Hutchinson,DL,8289,DL1
-"August 10, 2022",,,,,,,157.4,IND,DeForest,Buckner,DT,3172,DT2
-"August 10, 2022",,,,,,,158.4,GB,De'Vondre,Campbell,LB,3276,LB16
-"August 10, 2022",,,,,,,159.2,CIN,Jessie,Bates,DB,5017,DB6
-"August 10, 2022",,,,,,,159.7,BAL,Kyle,Hamilton,DB,8339,DB7
-"August 10, 2022",,,,,,,163.0,NYG,Blake,Martinez,LB,3291,LB17
-"August 10, 2022",,,,,,,165.2,NYG,Kayvon,Thibodeaux,DL,8355,DL2
-"August 10, 2022",,,,,,,166.0,BUF,Jordan,Poyer,DB,1343,DB8
-"August 10, 2022",,,,,,,167.8,WAS,Cole,Holcomb,LB,6220,LB18
-"August 10, 2022",,,,,,,167.8,CLE,Jeremiah,Owusu-Koramoah,LB,7651,LB19
-"August 10, 2022",,,,,,,189.3,MIN,Danielle,Hunter,DE,2393,DE6
-"August 10, 2022",,,,,,,191.2,JAX,Josh,Allen,DE,5840,DE7
-"August 10, 2022",,,,,,,192.0,NYG,Xavier,McKinney,DB,6788,DB9
-"August 10, 2022",,,,,,,194.8,BUF,Tremaine,Edmunds,LB,4968,LB20
-"August 10, 2022",,,,,,,195.0,CIN,Trey,Hendrickson,DE,4135,DE8
-"August 10, 2022",,,,,,,196.2,LAR,Jalen,Ramsey,CB,3160,CB2
-"August 10, 2022",,,,,,,197.5,DEN,Justin,Simmons,DB,3262,DB10
-"August 10, 2022",,,,,,,198.2,KC,Nick,Bolton,LB,7648,LB21
-"August 10, 2022",,,,,,,199.6,DEN,Pat,Surtain,CB,7641,CB3
-"August 10, 2022",,,,,,,202.4,JAX,Devin,Lloyd,LB,8329,LB22
-"August 10, 2022",,,,,,,203.5,CIN,Sam,Hubbard,DE,5015,DE9
-"August 10, 2022",,,,,,,206.1,TB,Shaquil,Barrett,LB,1999,LB23
-"August 10, 2022",,,,,,,207.8,NYJ,Sauce,Gardner,DB,8290,DB11
-"August 10, 2022",,,,,,,208.0,TEN,Harold,Landry,LB,5030,LB24
-"August 10, 2022",,,,,,,209.6,NE,Kyle,Dugger,DB,6872,DB12
-"August 10, 2022",,,,,,,211.4,PHI,Kyzir,White,LB,5348,LB25
-"August 10, 2022",,,,,,,212.0,ATL,Deion,Jones,LB,3222,LB26
-"August 10, 2022",,,,,,,213.0,TEN,Kevin,Byard,DB,3233,DB13
-"August 10, 2022",,,,,,,215.6,IND,Bobby,Okereke,LB,5944,LB27
-"August 10, 2022",,,,,,,217.9,PHI,Haason,Reddick,LB,4063,LB28
-"August 10, 2022",,,,,,,219.8,JAX,Travon,Walker,lb,8265,lb29
-"August 10, 2022",,,,,,,220.4,IND,Kenny,Moore,CB,4427,CB4
-"August 10, 2022",,,,,,,221.3,BUF,Greg,Rousseau,DE,7627,DE10
-"August 10, 2022",,,,,,,228.8,LAC,Khalil,Mack,LB,2036,LB30
-"August 10, 2022",,,,,,,229.0,MIA,Jevon,Holland,DB,7666,DB14
-"August 10, 2022",,,,,,,232.0,PIT,Cameron,Heyward,DT,843,DT3
-"August 10, 2022",,,,,,,233.3,TEN,Jeffery,Simmons,DT,6125,DT4
-"August 10, 2022",,,,,,,235.3,ARI,Jalen,Thompson,DB,6711,DB15
-"August 10, 2022",,,,,,,236.5,BAL,Marlon,Humphrey,CB,4071,CB5
-"August 10, 2022",,,,,,,237.0,TEN,Zach,Cunningham,LB,4110,LB31
-"August 10, 2022",,,,,,,238.2,NO,Tyrann,Mathieu,DB,1576,DB16
-"August 10, 2022",,,,,,,239.2,BUF,Von,Miller,LB,871,LB32
-"August 10, 2022",,,,,,,241.1,TB,Lavonte,David,LB,1192,LB33
-"August 10, 2022",,,,,,,243.0,PHI,Nakobe,Dean,LB,8267,LB34
-"August 10, 2022",,,,,,,244.2,WAS,Montez,Sweat,DE,6124,DE11
-"August 10, 2022",,,,,,,247.5,NYJ,Quincy,Williams,LB,6214,LB35
-"August 10, 2022",,,,,,,249.2,CIN,Vonn,Bell,DB,3230,DB17
-"August 10, 2022",,,,,,,252.3,NO,Cameron,Jordan,DE,957,DE12
-"August 10, 2022",,,,,,,257.7,HOU,Derek,Stingley,DB,8308,DB18
-"August 10, 2022",,,,,,,279.9,MIA,Jaelan,Phillips,LB,7635,LB36
-"August 10, 2022",,,,,,,281.7,NE,Matt,Judon,LB,3303,LB37
-"August 10, 2022",,,,,,,282.8,ATL,A.J.,Terrell,CB,6836,CB6
-"August 10, 2022",,,,,,,283.6,MIN,Harrison,Smith,DB,1213,DB19
-"August 10, 2022",,,,,,,284.8,GB,Rashan,Gary,LB,5839,LB38
-"August 10, 2022",,,,,,,285.4,DEN,Bradley,Chubb,LB,4967,LB39
-"August 10, 2022",,,,,,,286.4,LV,Denzel,Perryman,LB,2353,LB40
-"August 10, 2022",,,,,,,287.1,PIT,Myles,Jack,LB,3166,LB41
-"August 10, 2022",,,,,,,287.9,LAC,J.C.,Jackson,DB,5193,DB20
-"August 10, 2022",,,,,,,289.8,WAS,Kamren,Curl,DB,7136,DB21
-"August 10, 2022",,,,,,,290.0,PHI,Jordan,Davis,DL,8269,DL3
-"August 10, 2022",,,,,,,291.1,GB,Quay,Walker,LB,8266,LB42
-"August 10, 2022",,,,,,,293.4,MIN,Lewis,Cine,DB,8268,DB22
-"August 10, 2022",,,,,,,294.4,PIT,Alex,Highsmith,LB,7113,LB43
-"August 10, 2022",,,,,,,295.7,NYJ,Quinnen,Williams,DT,6118,DT5
-"August 10, 2022",,,,,,,295.8,MIA,Jerome,Baker,LB,5056,LB44
-"August 10, 2022",,,,,,,297.9,NO,Demario,Davis,LB,1052,LB45
-"August 10, 2022",,,,,,,298.9,WAS,Jonathan,Allen,DT,4032,DT6
-"August 10, 2022",,,,,,,299.5,CAR,Shaq,Thompson,LB,2330,LB46
-"August 10, 2022",,,,,,,301.7,TB,Logan,Ryan,DB,1367,DB23
-"August 10, 2022",,,,,,,303.3,ARI,Zaven,Collins,LB,7637,LB47
-"August 10, 2022",,,,,,,303.9,LAR,Taylor,Rapp,DB,5882,DB24
-"August 10, 2022",,,,,,,306.1,LV,Chandler,Jones,LB,1038,LB48
-"August 10, 2022",,,,,,,307.7,PIT,Devin,Bush,LB,5843,LB49
-"August 10, 2022",,,,,,,310.4,LV,Johnathan,Abram,DB,5860,DB25
-"August 10, 2022",,,,,,,311.9,NYG,Leonard,Williams,DE,2311,DE13
-"August 10, 2022",,,,,,,313.5,BAL,Odafe,Oweh,LB,7626,LB50
-"August 10, 2022",,,,,,,319.4,NO,Marcus,Davenport,DE,4965,DE14
-"August 10, 2022",,,,,,,322.6,NE,Jabrill,Peppers,DB,4056,DB26
-"August 10, 2022",,,,,,,323.4,NYJ,Jermaine,Johnson,LB,8398,LB51
-"August 10, 2022",,,,,,,325.1,MIN,Jordan,Hicks,LB,2389,LB52
-"August 10, 2022",,,,,,,327.0,IND,Kwity,Paye,DE,7633,DE15
-"August 10, 2022",,,,,,,327.3,KC,George,Karlaftis,DL,8385,DL4
-"August 10, 2022",,,,,,,329.5,SEA,Quandre,Diggs,DB,2501,DB27
-"August 10, 2022",,,,,,,330.1,DAL,Demarcus,Lawrence,DE,2064,DE16
-"August 10, 2022",,,,,,,331.2,IND,Yannick,Ngakoue,DE,3238,DE17
-"August 10, 2022",,,,,,,333.5,MIA,Xavien,Howard,CB,3215,CB7
-"August 10, 2022",,,,,,,336.0,CHI,Jaquan,Brisker,DB,8323,DB28
-"August 10, 2022",,,,,,,339.9,NO,Marshon,Lattimore,CB,4059,CB8
-"August 10, 2022",,,,,,,357.8,HOU,Christian,Kirksey,LB,1905,LB53
-"August 10, 2022",,,,,,,359.3,NYG,Azeez,Ojulari,LB,7653,LB54
-"August 10, 2022",,,,,,,361.0,MIA,Christian,Wilkins,DT,6120,DT7
-"August 10, 2022",,,,,,,362.9,KC,Chris,Jones,DT,3558,DT8
-"August 10, 2022",,,,,,,363.0,LAR,Jordan,Fuller,DB,6968,DB29
-"August 10, 2022",,,,,,,364.3,WAS,Jamin,Davis,LB,7634,LB55
-"August 10, 2022",,,,,,,366.6,GB,Jaire,Alexander,CB,4979,CB9
-"August 10, 2022",,,,,,,367.2,IND,Nick,Cross,DB,8392,DB30
-"August 10, 2022",,,,,,,367.8,TEN,David,Long,LB,5928,LB56
-"August 10, 2022",,,,,,,369.1,MIN,Za'Darius,Smith,LB,2427,LB57
-"August 10, 2022",,,,,,,370.0,PHI,T.J.,Edwards,LB,5960,LB58
-"August 10, 2022",,,,,,,371.6,DAL,Jayron,Kearse,DB,3399,DB31
-"August 10, 2022",,,,,,,372.4,KC,Leo,Chenal,LB,8362,LB59
-"August 10, 2022",,,,,,,373.2,BUF,Ed,Oliver,DT,5841,DT9
-"August 10, 2022",,,,,,,374.8,BUF,Matt,Milano,LB,4191,LB60
-"August 10, 2022",,,,,,,375.8,BAL,David,Ojabo,DL,8287,DL5
-"August 10, 2022",,,,,,,378.6,PHI,Josh,Sweat,DE,4999,DE18
-"August 10, 2022",,,,,,,379.9,LAC,Nasir,Adderley,DB,5881,DB32
-"August 10, 2022",,,,,,,380.4,SEA,Cody,Barton,LB,6065,LB61
-"August 10, 2022",,,,,,,383.5,KC,Justin,Reid,DB,5036,DB33
-"August 10, 2022",,,,,,,385.6,CHI,Robert,Quinn,LB,967,LB62
-"August 10, 2022",,,,,,,387.5,SF,Azeez,Al-Shaair,LB,6485,LB63
-"August 10, 2022",,,,,,,388.8,DET,Tracy,Walker,DB,5064,DB34
-"August 10, 2022",,,,,,,391.4,NO,Pete,Werner,LB,7647,LB64
-"August 10, 2022",,,,,,,391.5,CHI,Eddie,Jackson,DB,4158,DB35
-"August 10, 2022",,,,,,,395.2,GB,Adrian,Amos,DB,2445,DB36
-"August 10, 2022",,,,,,,396.2,CLE,John,Johnson,DB,4133,DB37
-"August 10, 2022",,,,,,,399.3,LAR,Leonard,Floyd,LB,3174,LB65
-"August 10, 2022",,,,,,,399.6,ARI,J.J.,Watt,DE,856,DE19
-"August 10, 2022",,,284.3,,,,,KC,Kansas City,Chiefs,DEF,KC,DEF20
+10-Aug-22,1.4,2.9,1.4,1.8,4.2,1.5,1.2,IND,Jonathan,Taylor,RB,6813,RB1
+10-Aug-22,2.9,7.1,2.1,6.9,14,5.7,9.7,CAR,Christian,McCaffrey,RB,4034,RB2
+10-Aug-22,3.8,14.6,3.1,12.3,31.7,11,17.8,TEN,Derrick,Henry,RB,3198,RB3
+10-Aug-22,4.1,10.1,4.1,9.7,20.9,10.1,11.9,LAC,Austin,Ekeler,RB,4663,RB4
+10-Aug-22,5.2,7.8,5.5,5.9,13.3,6.5,8,LAR,Cooper,Kupp,WR,4039,WR1
+10-Aug-22,6.9,11.7,6.9,3.5,7.2,3.8,4.2,MIN,Justin,Jefferson,WR,6794,WR2
+10-Aug-22,7.3,17.5,7.7,10.3,28.5,12.7,18.9,MIN,Dalvin,Cook,RB,4029,RB5
+10-Aug-22,7.5,13,7.4,4.9,10.3,4.3,6.9,PIT,Najee,Harris,RB,7528,RB6
+10-Aug-22,9.7,12.1,9.4,2.2,6.6,2.2,3.6,CIN,Ja'Marr,Chase,WR,7564,WR3
+10-Aug-22,10.6,21.7,10.7,13.7,24,13,20.4,CIN,Joe,Mixon,RB,4018,RB7
+10-Aug-22,11.8,22.4,11.7,15.5,27.5,15.3,21,LV,Davante,Adams,WR,2133,WR4
+10-Aug-22,12.7,15.5,12.6,27.6,34.5,31.3,27.2,KC,Travis,Kelce,TE,1466,TE1
+10-Aug-22,13.5,23.8,14.4,18.1,29.5,19.8,23.4,BUF,Stefon,Diggs,WR,2449,WR5
+10-Aug-22,14.3,25.5,13.8,7.4,17.8,7.3,13.6,DET,D'Andre,Swift,RB,6790,RB8
+10-Aug-22,15.1,27.9,15.2,11.7,15.3,9.1,14.4,DAL,CeeDee,Lamb,WR,6786,WR6
+10-Aug-22,15.6,30.2,15.9,20.2,39.5,21.2,25.8,CLE,Nick,Chubb,RB,4988,RB9
+10-Aug-22,17.9,31.5,20.9,26.2,37.3,26.9,28.8,MIA,Tyreek,Hill,WR,3321,WR7
+10-Aug-22,18.2,20.5,21.5,25.3,18.7,25.4,22.9,BAL,Mark,Andrews,TE,5012,TE2
+10-Aug-22,19.8,1.4,22.7,14.6,1.7,15.4,2.2,BUF,Josh,Allen,QB,4984,QB1
+10-Aug-22,20.5,33.8,17.3,21.6,41,23.7,29.2,NO,Alvin,Kamara,RB,4035,RB10
+10-Aug-22,21.7,36.3,19.2,34.8,58.5,34.7,39.1,GB,Aaron,Jones,RB,4199,RB11
+10-Aug-22,22.1,31.3,23.2,17.2,26.4,18.1,23.9,SF,Deebo,Samuel,WR,5872,WR8
+10-Aug-22,23.5,35.6,23.8,7.1,15.7,7.7,12.8,DEN,Javonte,Williams,RB,7588,RB12
+10-Aug-22,23.9,34.5,18.5,29.2,39.8,28.7,33.8,NYG,Saquon,Barkley,RB,4866,RB13
+10-Aug-22,25.9,39,25.4,46.5,63.8,49,50.6,TB,Leonard,Fournette,RB,3969,RB14
+10-Aug-22,26.5,39.9,26.6,44.7,60,43.4,49.3,TB,Mike,Evans,WR,2216,WR9
+10-Aug-22,27.5,41.1,27.1,22.8,25.5,20.1,26.9,PHI,A.J.,Brown,WR,5859,WR10
+10-Aug-22,28.3,29.6,29.3,15,11.8,14.5,19.1,ATL,Kyle,Pitts,TE,7553,TE3
+10-Aug-22,29.5,45.1,31.3,51.8,70.4,55.6,53.7,LAC,Keenan,Allen,WR,1479,WR11
+10-Aug-22,30.2,49.3,28.9,52.2,69.8,50.5,57.5,DAL,Ezekiel,Elliott,RB,3164,RB15
+10-Aug-22,31.3,44.3,30.8,53.2,72,52.4,59.4,ARI,James,Conner,RB,4137,RB16
+10-Aug-22,31.8,4,31.3,23.1,2.3,23.3,7.4,KC,Patrick,Mahomes,QB,4046,QB2
+10-Aug-22,33.8,47.1,33.6,31.3,35.8,31.1,34.8,CIN,Tee,Higgins,WR,6801,WR12
+10-Aug-22,34.1,3.9,36.1,23.5,3.1,22.3,5.5,LAC,Justin,Herbert,QB,6797,QB3
+10-Aug-22,35,50.7,34.2,30.8,45.5,29,39.2,LAR,Cam,Akers,RB,6938,RB17
+10-Aug-22,36.6,51.9,35.3,39.9,55.8,40,43.3,CHI,David,Montgomery,RB,5892,RB18
+10-Aug-22,37.6,42.1,38.1,42.2,43.6,41.5,38.7,SF,George,Kittle,TE,4217,TE4
+10-Aug-22,38,47.4,43.7,49.2,55.3,51.6,44.6,LV,Darren,Waller,TE,2505,TE5
+10-Aug-22,39.2,58.7,39.6,37.7,52,38.6,45.8,PIT,Diontae,Johnson,WR,5937,WR13
+10-Aug-22,39.8,60.9,41.4,36.1,59.7,39.6,46.5,WAS,Terry,McLaurin,WR,5927,WR14
+10-Aug-22,41.7,46.2,37.9,19.1,22.9,17.4,30.4,NYJ,Breece,Hall,RB,8155,RB19
+10-Aug-22,42.2,55.5,42.4,43.5,49.9,42.4,47.1,IND,Michael,Pittman,WR,6819,WR15
+10-Aug-22,43.2,52.9,45.3,28.2,33.6,27.2,31.3,MIA,Jaylen,Waddle,WR,7526,WR16
+10-Aug-22,44,53.1,39.6,38.9,44.4,36.5,42.7,JAX,Travis,Etienne,RB,7543,RB20
+10-Aug-22,45.9,63,46.5,47,51.9,45.9,51,CAR,D.J.,Moore,WR,4983,WR17
+10-Aug-22,46.9,55.7,44.3,35.1,53.6,37.5,41.5,WAS,Antonio,Gibson,RB,6945,RB21
+10-Aug-22,47.2,62.9,47.3,54.6,67.9,53.2,58.2,LV,Josh,Jacobs,RB,5850,RB22
+10-Aug-22,47.5,57.7,47.4,31.6,38.3,30.6,37.7,SEA,D.K.,Metcalf,WR,5846,WR18
+10-Aug-22,49.8,5,49,41.9,7.3,44.4,15.4,BAL,Lamar,Jackson,QB,4881,QB4
+10-Aug-22,50.9,70.6,53.8,55.6,63.7,54.5,61,DEN,Jerry,Jeudy,WR,6783,WR19
+10-Aug-22,51.1,74.4,52.6,75.6,89.7,75.4,94.2,DEN,Courtland,Sutton,WR,5045,WR20
+10-Aug-22,52.6,6.1,57.9,33,5.8,33.9,10.9,CIN,Joe,Burrow,QB,6770,QB5
+10-Aug-22,53.7,63.3,51.2,69.9,87.2,67,82.8,LAC,Mike,Williams,WR,4068,WR21
+10-Aug-22,54.2,65,50,39.2,47.2,35.9,47.3,BAL,J.K.,Dobbins,RB,6806,RB23
+10-Aug-22,55.2,69.1,54.5,59.6,78.2,58.8,69.6,SF,Elijah,Mitchell,RB,7561,RB24
+10-Aug-22,55.8,71.9,55.3,63.3,85.8,65.5,76.3,CLE,Amari,Cooper,WR,2309,WR22
+10-Aug-22,57.8,9.2,55.4,48,9.1,47.9,15.3,ARI,Kyler,Murray,QB,5849,QB6
+10-Aug-22,58.2,61.5,62.3,67.8,76.6,71.1,67.9,DAL,Dalton,Schultz,TE,5001,TE6
+10-Aug-22,59.3,67.7,58.1,62.1,75.1,62.1,72,ARI,Marquise,Brown,WR,5848,WR23
+10-Aug-22,60.2,79.2,59.3,92.7,103.8,90.9,109.9,LAR,Allen,Robinson,WR,1992,WR24
+10-Aug-22,61.9,68,65.5,55.4,61.4,60.1,60.9,DET,T.J.,Hockenson,TE,5844,TE7
+10-Aug-22,62.7,76.9,60.6,58.2,68.2,57.5,62.4,TB,Chris,Godwin,WR,4037,WR25
+10-Aug-22,63.3,81.9,63.7,70.7,92.2,68.4,83.1,KC,Clyde,Edwards-Helaire,RB,6820,RB25
+10-Aug-22,63.6,75.8,61,94.7,106.1,95,110.4,HOU,Brandin,Cooks,WR,2197,WR26
+10-Aug-22,65.6,78.1,69.7,66.2,84.8,70.6,79.1,DET,Amon-Ra,St. Brown,WR,7547,WR27
+10-Aug-22,66.1,73.6,63.4,61.2,79.8,59.9,75,GB,A.J.,Dillon,RB,6828,RB26
+10-Aug-22,67.6,19.9,66.2,68.1,19.9,73,35.7,PHI,Jalen,Hurts,QB,6904,QB7
+10-Aug-22,68.7,92.5,71.5,91.1,107.1,93.4,113.1,NO,Michael,Thomas,WR,3199,WR28
+10-Aug-22,69.4,87.8,67.5,79.8,97.1,79.1,99.4,PHI,Miles,Sanders,RB,6151,RB27
+10-Aug-22,70.9,79.1,71.8,74.3,86.2,76.5,85.7,CHI,Darnell,Mooney,WR,7090,WR29
+10-Aug-22,71.3,89.3,74.3,81.5,95.1,82.8,101.1,KC,JuJu,Smith-Schuster,WR,4040,WR30
+10-Aug-22,71.4,103.8,70.2,105.7,127.8,105.1,133.6,MIN,Adam,Thielen,WR,1689,WR31
+10-Aug-22,73.9,85.1,68.6,77.3,101.3,78.6,97.3,NE,Damien,Harris,RB,5890,RB28
+10-Aug-22,74.5,100.3,79.2,87.5,105.7,85.8,105.4,ARI,DeAndre,Hopkins,WR,1426,WR32
+10-Aug-22,75.4,18.6,82.4,79.7,21.4,84.3,36.5,DEN,Russell,Wilson,QB,1234,QB8
+10-Aug-22,76.5,77.3,81.9,83.1,90.6,86.1,89.9,PHI,Dallas,Goedert,TE,5022,TE8
+10-Aug-22,77.5,86.7,76.4,73.3,79.1,69.2,88,BAL,Rashod,Bateman,WR,7571,WR33
+10-Aug-22,78.9,83.5,73.8,50.7,54.7,46.4,65.1,SEA,Kenneth,Walker,RB,8151,RB29
+10-Aug-22,79.4,94.3,75,45.2,46.3,47.4,64,ATL,Drake,London,WR,8112,WR34
+10-Aug-22,79.4,102.9,77.5,90.3,108.1,87.3,116.4,CLE,Kareem,Hunt,RB,4098,RB30
+10-Aug-22,81.8,26.7,85.9,118,73.9,125.2,81.3,TB,Tom,Brady,QB,167,QB9
+10-Aug-22,82.4,93.2,79.7,95.4,99.3,92.5,117.7,BUF,Gabe,Davis,WR,6943,WR35
+10-Aug-22,83.8,95.6,87.2,63.5,74.2,63.3,70.7,PHI,DeVonta,Smith,WR,7525,WR36
+10-Aug-22,84.6,15.9,78.1,71.1,12.5,72,31,DAL,Dak,Prescott,QB,3294,QB10
+10-Aug-22,85.5,105.3,84.1,100,133.2,103,137.6,ATL,Cordarrelle,Patterson,RB,1535,RB31
+10-Aug-22,86.8,99.6,86.1,85.7,102.3,83.1,107.8,DAL,Tony,Pollard,RB,5967,RB32
+10-Aug-22,87.6,84,94.8,114.3,124.2,121.2,123,ARI,Zach,Ertz,TE,1339,TE9
+10-Aug-22,87.8,101,90.4,86.6,103.9,87.5,106.9,LV,Hunter,Renfrow,WR,5955,WR37
+10-Aug-22,89.5,103.7,87.1,78.6,83.8,77.6,95.6,NYJ,Elijah,Moore,WR,7596,WR38
+10-Aug-22,90.3,97.3,83.4,57.6,62.4,55.3,73.7,TEN,Treylon,Burks,WR,8135,WR39
+10-Aug-22,91.1,98.2,93.1,89.1,98.7,94,103.9,BUF,Dawson,Knox,TE,5906,TE10
+10-Aug-22,92.6,106.9,89.5,103.4,123.8,101.4,125.4,BUF,Devin,Singletary,RB,6130,RB33
+10-Aug-22,93.6,108.2,91.4,113,132,110.9,147,SEA,Rashaad,Penny,RB,4985,RB34
+10-Aug-22,94.7,116.1,95.9,116.7,130.2,119.4,146.2,SEA,Tyler,Lockett,WR,2374,WR40
+10-Aug-22,95.1,28.3,100.5,108.3,47.9,115.8,63.6,GB,Aaron,Rodgers,QB,96,QB11
+10-Aug-22,95.8,111.3,92.3,103.8,125.5,100.9,135.2,MIA,Chase,Edmonds,RB,5000,RB35
+10-Aug-22,97,109.8,98.2,95.2,100.5,91.8,115,SF,Brandon,Aiyuk,WR,6803,WR41
+10-Aug-22,98,23.4,99.5,99.8,31.9,107.4,52.1,LAR,Matthew,Stafford,QB,421,QB12
+10-Aug-22,99.5,115,95.3,60.9,66.7,61.4,86.5,NYJ,Garrett,Wilson,WR,8146,WR42
+10-Aug-22,100.5,113.3,102.8,71.2,87.7,66,103.5,BUF,James,Cook,RB,8138,RB36
+10-Aug-22,101.6,118.8,97.8,65.9,77.9,63.6,91.1,NO,Chris,Olave,WR,8144,WR43
+10-Aug-22,102.1,119.2,101.3,126.9,147.3,123.9,155.8,DEN,Melvin,Gordon,RB,2320,RB37
+10-Aug-22,103.3,122.8,105.1,125,146.9,124.2,164.7,GB,Allen,Lazard,WR,5185,WR44
+10-Aug-22,103.3,123.8,103,129.6,151.5,129.4,171.4,TEN,Robert,Woods,WR,1352,WR45
+10-Aug-22,105.1,107.5,109.7,88,93.2,89.3,92.1,PIT,Pat,Freiermuth,TE,7600,TE11
+10-Aug-22,106,38.7,103.2,97.8,23.2,97.8,55.4,SF,Trey,Lance,QB,7610,QB13
+10-Aug-22,107.6,114.3,111.8,106.6,113.3,114.3,122,MIA,Mike,Gesicki,TE,4993,TE12
+10-Aug-22,108.9,119.7,107.1,111.4,119.8,108.6,145.1,JAX,Christian,Kirk,WR,4950,WR46
+10-Aug-22,109.6,126,108.4,102,115.8,99.1,127.4,PIT,Chase,Claypool,WR,6886,WR47
+10-Aug-22,110.8,125.2,106.5,119.7,127.4,111.3,143.7,NE,Rhamondre,Stevenson,RB,7611,RB38
+10-Aug-22,111.1,37,115.1,127.8,50.8,135.1,74.6,LV,Derek,Carr,QB,2028,QB14
+10-Aug-22,111.3,124.2,111.1,143.1,153.9,140.4,178.5,TB,Russell,Gage,WR,5110,WR48
+10-Aug-22,113,131.7,114.3,115.5,122.1,113.6,154.2,NYG,Kadarius,Toney,WR,7606,WR49
+10-Aug-22,114.6,130.9,110.2,84.9,91,81.6,131.6,KC,Skyy,Moore,WR,8168,WR50
+10-Aug-22,115.4,129.8,113.3,107,126.5,109.8,138.2,NYJ,Michael,Carter,RB,7607,RB39
+10-Aug-22,116.9,127.1,123,130.1,121.3,132.9,142.6,CHI,Cole,Kmet,TE,6826,TE13
+10-Aug-22,117.8,149.9,119.4,111.4,142,116.6,161.1,JAX,James,Robinson,RB,6955,RB40
+10-Aug-22,118.4,134.9,117,109.3,119.4,103.4,132,LAC,Isaiah,Spiller,RB,8153,RB41
+10-Aug-22,119.5,138.3,122.1,124.2,140.9,122.8,173.8,MIN,Alexander,Mattison,RB,5987,RB42
+10-Aug-22,119.7,135.4,126.8,139.5,162.4,145.3,179.7,CIN,Tyler,Boyd,WR,3225,WR51
+10-Aug-22,121.8,43.6,124.4,164.3,81.5,169.5,111.3,MIN,Kirk,Cousins,QB,1166,QB15
+10-Aug-22,122.8,127.8,134.4,146.7,143.4,151.2,170.9,DEN,Albert,Okwuegbunam,TE,6843,TE14
+10-Aug-22,123.9,140.9,127.9,143,157.5,150.1,172.9,NE,Hunter,Henry,TE,3214,TE15
+10-Aug-22,124.3,278.7,164.8,215.6,,243.4,,BUF,Buffalo,Bills,DEF,BUF,DEF1
+10-Aug-22,125.8,279.2,167.3,218.5,,245.8,,LAR,Los Angeles,Rams,DEF,LAR,DEF2
+10-Aug-22,126.9,282.9,166.4,219.3,,244.5,,TB,Tampa Bay,Buccaneers,DEF,TB,DEF3
+10-Aug-22,127.5,283.9,167.8,221.2,,246.5,,SF,San Francisco,49ers,DEF,SF,DEF4
+10-Aug-22,128,143.7,119.7,82.7,95.3,79.3,130.5,GB,Christian,Watson,WR,8167,WR52
+10-Aug-22,129.8,137,116.9,98.1,111.8,98.1,151.6,HOU,Dameon,Pierce,RB,8129,RB43
+10-Aug-22,130.9,141.8,121.9,160,172,154.7,226.9,KC,Marquez,Valdes-Scantling,WR,5086,WR53
+10-Aug-22,131.3,132,118,132.4,151.4,126.1,177.2,KC,Ronald,Jones,RB,5052,RB44
+10-Aug-22,132.5,147.7,131.9,162.6,178.1,163.7,185.4,NO,Jarvis,Landry,WR,1825,WR54
+10-Aug-22,133.9,145.9,127.1,151.5,171.8,153.8,181.7,IND,Nyheim,Hines,RB,5347,RB45
+10-Aug-22,134,54.2,129.2,135.6,57.3,141.2,93.4,MIA,Tua,Tagovailoa,QB,6768,QB16
+10-Aug-22,135.7,135.4,142.1,141.1,145.5,143.8,174.9,MIN,Irv,Smith,TE,6126,TE16
+10-Aug-22,135.9,139.7,125.9,122.8,131.9,118.3,169.2,DAL,Michael,Gallup,WR,5038,WR55
+10-Aug-22,137.8,148.8,138,134.9,148.9,133.7,175.7,ARI,Rondale,Moore,WR,7601,WR56
+10-Aug-22,138.9,151.8,132.1,142.8,166.2,139,182.1,LAR,Darrell,Henderson,RB,5916,RB46
+10-Aug-22,139.9,153.8,130.4,117.7,116.8,111.6,162.4,TB,Rachaad,White,RB,8136,RB47
+10-Aug-22,140.1,91.8,140.1,93.2,30.6,95.5,68,CLE,Deshaun,Watson,QB,4017,QB17
+10-Aug-22,141,158.3,133.1,121.4,134.8,117.9,175.5,ATL,Tyler,Allgeier,RB,8132,RB48
+10-Aug-22,142.5,59.2,135.5,127,42.4,127.2,87.7,CHI,Justin,Fields,QB,7591,QB18
+10-Aug-22,143.4,157.1,141.3,110,114.4,106.8,156.2,WAS,Jahan,Dotson,WR,8119,WR57
+10-Aug-22,143.5,142.3,135.9,76.1,82.9,74.9,111.9,DET,Jameson,Williams,WR,8148,WR58
+10-Aug-22,145.8,159.5,137.5,167.6,180.8,165.1,230.3,HOU,Marlon,Mack,RB,4152,RB49
+10-Aug-22,146.4,151.6,158,169.2,179.4,183.8,223.5,LAR,Tyler,Higbee,TE,3271,TE17
+10-Aug-22,147.9,167.2,143.8,101.6,109.5,102.8,148.6,PIT,George,Pickens,WR,8137,WR59
+10-Aug-22,148,143.5,154.9,123.9,129.2,127.5,150.7,SEA,Noah,Fant,TE,5857,TE18
+10-Aug-22,149.3,159.9,139.9,165.6,175.4,162.8,246.9,NYG,Kenny,Golladay,WR,4131,WR60
+10-Aug-22,150.1,156.7,151.2,151.4,158.1,158.2,180.7,CLE,David,Njoku,TE,4033,TE19
+10-Aug-22,151.1,279.3,195,217.7,,282.5,271.9,BAL,Justin,Tucker,K,1264,K1
+10-Aug-22,152,281.6,196,215.2,,281.7,271.8,CIN,Evan,McPherson,K,7839,K2
+10-Aug-22,153.3,292.6,205.3,225.6,,295.7,,BAL,Baltimore,Ravens,DEF,BAL,DEF5
+10-Aug-22,154.7,290.7,197.7,224,,285.1,275.1,KC,Harrison,Butker,K,4227,K3
+10-Aug-22,155.7,287.4,198,223.5,,289.5,,LAC,Los Angeles,Chargers,DEF,LAC,DEF6
+10-Aug-22,156.6,285.3,201.7,220.1,,284.6,274.5,LV,Daniel,Carlson,K,5095,K4
+10-Aug-22,157.4,286.4,202.4,226.7,,286.3,276.7,LAR,Matt,Gay,K,6083,K5
+10-Aug-22,158.1,295.5,199.4,236.5,,291.6,354.7,ARI,Matt,Prater,K,17,K6
+10-Aug-22,159.6,291.3,210.5,231.2,,290.2,,NO,New Orleans,Saints,DEF,NO,DEF7
+10-Aug-22,160,284.4,165.9,227.3,,287.8,,DAL,Dallas,Cowboys,DEF,DAL,DEF8
+10-Aug-22,161.7,287.5,203.9,222.8,,283.6,273.7,BUF,Tyler,Bass,K,7042,K7
+10-Aug-22,162.9,293.8,209.3,234.2,,299,279.5,NE,Nick,Folk,K,650,K8
+10-Aug-22,163.3,295.6,207.4,229.4,,287,277.5,ATL,Younghoe,Koo,K,4666,K9
+10-Aug-22,164.7,188,149.1,196.9,231.7,204.3,318.1,TB,Julio,Jones,WR,947,WR61
+10-Aug-22,165.3,155.7,143.9,157.1,161.9,156.1,183.8,NE,Jakobi,Meyers,WR,5947,WR62
+10-Aug-22,166.8,164.8,150,173.5,197.2,170.4,255.3,NE,DeVante,Parker,WR,2319,WR63
+10-Aug-22,167.7,163.6,147.1,171.6,203.8,174.8,259.9,WAS,J.D.,McKissic,RB,3664,RB50
+10-Aug-22,168,180.1,159.9,186.3,237,207.5,308.1,NO,Mark,Ingram,RB,956,RB51
+10-Aug-22,169.2,165.2,145.5,161.7,170.5,159,225.4,PHI,Kenneth,Gainwell,RB,7567,RB52
+10-Aug-22,170.1,170,155.1,148.2,155.2,142.5,234.3,DAL,Jalen,Tolbert,WR,8117,WR64
+10-Aug-22,171.6,66.3,146,119.8,36.6,119.4,77.3,JAX,Trevor,Lawrence,QB,7523,QB19
+10-Aug-22,172.3,87.9,169.2,185.9,110.9,198.3,188.3,NO,Jameis,Winston,QB,2306,QB20
+10-Aug-22,173.1,169.1,156.2,159.4,177.4,159.1,247.3,KC,Mecole,Hardman,WR,5917,WR65
+10-Aug-22,174.2,161.8,148,155,167.3,155.2,183,DET,DJ,Chark,WR,4951,WR66
+10-Aug-22,175.1,71.8,153.1,238.8,118.5,212.7,187.3,IND,Matt,Ryan,QB,24,QB21
+10-Aug-22,175.7,162.5,172.3,195.6,199.8,196.2,255.2,LAC,Gerald,Everett,TE,4089,TE20
+10-Aug-22,177.5,168,151.5,150.3,165.9,149.2,227.2,CHI,Khalil,Herbert,RB,7608,RB53
+10-Aug-22,178.4,82.7,170.7,145.9,65.1,146,100.8,NE,Mac,Jones,QB,7527,QB22
+10-Aug-22,179.7,189.4,180.6,204.9,222.6,201.6,324.7,ARI,Darrel,Williams,RB,5549,RB54
+10-Aug-22,180.8,171.4,159.8,153.6,159.9,143.3,250.9,SF,Tyrion,Davis-Price,RB,8211,RB55
+10-Aug-22,181.7,187.7,157.6,191.6,223.9,190.2,319.8,MIA,Raheem,Mostert,RB,2749,RB56
+10-Aug-22,182.4,,206,235.1,,295.3,,GB,Green Bay,Packers,DEF,GB,DEF9
+10-Aug-22,183.3,297.8,252.1,237.7,,297.1,356.8,DEN,Brandon,McManus,K,1433,K10
+10-Aug-22,183.7,,253.5,268.4,,293,,DEN,Denver,Broncos,DEF,DEN,DEF10
+10-Aug-22,185,,199.3,233.3,,247.9,,NE,New England,Patriots,DEF,NE,DEF11
+10-Aug-22,186.2,,204.1,231.2,,294.7,355.9,IND,Rodrigo,Blankenship,K,7062,K11
+10-Aug-22,187.2,289.2,207.8,230.8,,292.8,,IND,Indianapolis,Colts,DEF,IND,DEF12
+10-Aug-22,188.4,,211.2,228.6,,247.8,,PIT,Pittsburgh,Steelers,DEF,PIT,DEF13
+10-Aug-22,189.5,,256,,,,,SF,Robbie,Gould,K,49,K12
+10-Aug-22,190.6,175.6,171.7,188.6,210.4,199.8,262.3,CIN,Hayden,Hurst,TE,4973,TE21
+10-Aug-22,191,172.4,163.2,175.8,206,175.7,260.7,DET,Jamaal,Williams,RB,4149,RB57
+10-Aug-22,192,175.3,173.3,194.8,196,185.5,266.8,DEN,Tim,Patrick,WR,4351,WR67
+10-Aug-22,193,178.2,162.6,133.3,144,130.4,210.4,IND,Alec,Pierce,WR,8142,WR68
+10-Aug-22,194.1,179.7,161,180.9,195.6,173.6,264,BAL,Gus,Edwards,RB,5248,RB58
+10-Aug-22,195.1,191.5,181.9,239.7,238.4,207.5,334.8,GB,Sammy,Watkins,WR,1817,WR69
+10-Aug-22,196.1,181.4,175.8,190,191,186.3,269.5,MIN,K.J.,Osborn,WR,7066,WR70
+10-Aug-22,197,185.4,179.3,172.8,191.5,167.9,268.5,LAR,Van,Jefferson,WR,6853,WR71
+10-Aug-22,198.4,186.3,174.5,149.3,163.5,147.3,242.3,WAS,Brian,Robinson,RB,8154,RB59
+10-Aug-22,199.4,95,177.6,158,71.9,164.4,119.8,NYJ,Zach,Wilson,QB,7538,QB23
+10-Aug-22,199.7,166.2,183.5,189.7,189.1,187.1,253.1,GB,Robert,Tonyan,TE,4602,TE22
+10-Aug-22,201.6,193.3,178.2,168,188.1,175.8,265.4,ATL,Odell,Beckham,WR,2078,WR72
+10-Aug-22,202.3,173.1,186.5,202.7,212,219.4,302.8,TEN,Austin,Hooper,TE,3202,TE23
+10-Aug-22,203.9,182.3,189.7,210.7,221.5,210.2,338.5,BUF,Jamison,Crowder,WR,2410,WR73
+10-Aug-22,204.6,200,175.8,147.2,174.6,148.6,231.2,CAR,Chuba,Hubbard,RB,7594,RB60
+10-Aug-22,205.4,207.2,215.1,241.4,232,223.2,375.7,IND,Parris,Campbell,WR,5880,WR74
+10-Aug-22,206.7,191.8,190.7,187.6,194.8,183.5,315,LAC,Joshua,Palmer,WR,7670,WR75
+10-Aug-22,207.9,146.2,218.9,271.5,164.6,252.6,239.4,CAR,Baker,Mayfield,QB,4892,QB24
+10-Aug-22,207.9,174.2,191.4,182.1,181.8,189.2,254.1,JAX,Evan,Engram,TE,4066,TE24
+10-Aug-22,209.9,202.5,219,191.2,198.3,193.3,314.5,HOU,Nico,Collins,WR,7569,WR76
+10-Aug-22,210.1,198.4,182.8,138.4,156.5,138.4,222.6,LV,Zamir,White,RB,8139,RB61
+10-Aug-22,211.2,207,220.3,203.6,215.5,218.6,340.9,ATL,Rob,Gronkowski,TE,515,TE25
+10-Aug-22,212.1,201.3,185.7,198.4,220.4,199.6,337.2,CAR,D'Onta,Foreman,RB,4111,RB62
+10-Aug-22,213.3,90.1,183.9,253.6,112,254.2,190.9,TEN,Ryan,Tannehill,QB,1049,QB25
+10-Aug-22,214.7,203.3,187.8,243.5,239.3,211.3,347,CAR,Robbie,Anderson,WR,3423,WR77
+10-Aug-22,215.1,205.5,188.4,154.3,159.8,151.2,251.2,NYG,Wan'Dale,Robinson,WR,8126,WR78
+10-Aug-22,215.8,190.7,215.2,273.5,249.2,253.1,326.9,TB,Cameron,Brate,TE,2214,TE26
+10-Aug-22,217.4,214.6,231.1,249.1,230.3,222.9,381.8,NE,Kendrick,Bourne,WR,4454,WR79
+10-Aug-22,218.8,195.9,194.8,183.1,204.9,178.4,316.8,WAS,Curtis,Samuel,WR,4082,WR80
+10-Aug-22,219.9,199.6,191.7,174,183.4,172.6,258.1,CLE,Donovan,Peoples-Jones,WR,6824,WR81
+10-Aug-22,220.7,111.5,217.2,250,139.6,250.2,204,NYG,Daniel,Jones,QB,5870,QB26
+10-Aug-22,221,204.4,193.6,140.5,141.6,135.6,218,CLE,David,Bell,WR,8118,WR82
+10-Aug-22,222.4,215.6,223.6,247.9,228.3,215.7,350.7,MIA,Sony,Michel,RB,4962,RB63
+10-Aug-22,223.5,212.7,241.1,254.3,255.3,235.3,393.8,ARI,A.J.,Green,WR,830,WR83
+10-Aug-22,223.5,213.2,231.5,258.6,259.1,239.9,,JAX,Marvin,Jones,WR,1067,WR84
+10-Aug-22,225.3,206.7,228.7,209.6,219,197.6,346.1,NYJ,Corey,Davis,WR,4036,WR85
+10-Aug-22,226.3,,281.9,270.5,,,358.8,NO,Wil,Lutz,K,3678,K13
+10-Aug-22,227.5,211.6,213.9,179.5,199.5,182.9,270.8,GB,Romeo,Doubs,WR,8121,WR86
+10-Aug-22,228,209.7,212.9,271.5,276.9,249.6,390.2,BUF,Isaiah,McKenzie,WR,4197,WR87
+10-Aug-22,229,239.6,214.1,276.3,250.1,228,,CIN,Chris,Evans,RB,7794,RB64
+10-Aug-22,230.7,217.4,227.9,246.8,253.8,225,383.2,LV,Kenyan,Drake,RB,3242,RB65
+10-Aug-22,231.7,220.1,225.7,245.2,226.4,214.9,386.4,DEN,KJ,Hamler,WR,6805,WR88
+10-Aug-22,231.8,117.2,223.4,292.7,149,271.3,215.7,DET,Jared,Goff,QB,3163,QB27
+10-Aug-22,233.6,110.4,222.2,282.5,137.3,267,201,WAS,Carson,Wentz,QB,3161,QB28
+10-Aug-22,234.2,215.9,243.9,242,227.3,220.1,345.3,BAL,Devin,Duvernay,WR,6847,WR89
+10-Aug-22,235.2,229.5,230.4,170.2,183.2,167.7,311.5,TEN,Hassan,Haskins,RB,8123,RB66
+10-Aug-22,236.1,196.9,235.4,213.8,193.3,221.7,309.6,HOU,Brevin,Jordan,TE,7568,TE27
+10-Aug-22,237,223.7,239.3,289.7,275.3,268.4,,NO,Taysom,Hill,TE,4381,TE28
+10-Aug-22,238.8,194.7,238.7,267.8,233.5,257.4,343.3,WAS,Logan,Thomas,TE,2251,TE29
+10-Aug-22,239.5,226.5,226.9,163.7,175.9,157.8,263.3,ARI,Keaontay,Ingram,RB,8221,RB67
+10-Aug-22,239.8,121.6,233.6,239.8,117.3,213.7,193.3,HOU,Davis,Mills,QB,7585,QB29
+10-Aug-22,241,247.3,266.9,,281.3,260.4,,TEN,Dontrell,Hilliard,RB,5536,RB68
+10-Aug-22,242.5,225.9,237,206.5,214.6,202.1,343.7,CAR,Terrace,Marshall,WR,7565,WR90
+10-Aug-22,243.9,227.3,236,260,236.5,229.5,,LAC,William,Fuller,WR,3157,WR91
+10-Aug-22,244.2,154.8,247.3,156.4,94,161.9,186.3,PIT,Kenny,Pickett,QB,8160,QB30
+10-Aug-22,245.6,133.2,246,291.3,167.4,,278.9,ATL,Marcus,Mariota,QB,2307,QB31
+10-Aug-22,246.5,231,245.6,281.1,287.1,265.4,,GB,Randall,Cobb,WR,928,WR92
+10-Aug-22,247.7,219.3,247.2,,282.5,,,IND,Mo,Alie-Cox,TE,4054,TE30
+10-Aug-22,247.9,150.6,262.3,295.3,182.2,,292.9,PIT,Mitch,Trubisky,QB,3976,QB32
+10-Aug-22,249.7,233.6,249,137.2,154,134.9,245.6,HOU,John,Metchie,WR,8147,WR93
+10-Aug-22,250.6,235.2,244,177.2,213.9,181.7,332.5,SF,Trey,Sermon,RB,7593,RB69
+10-Aug-22,251.7,224,234.2,251,242.9,226.6,,CLE,D'Ernest,Johnson,RB,6694,RB70
+10-Aug-22,252.9,218.3,242.8,131.2,138.8,131.1,199.1,ARI,Trey,McBride,TE,8130,TE31
+10-Aug-22,253.5,222.3,250.5,183.8,190.1,180,321.9,JAX,Laviska,Shenault,WR,6814,WR94
+10-Aug-22,254,228.9,268.7,295.4,271.6,277.7,,JAX,Zay,Jones,WR,4080,WR95
+10-Aug-22,255.1,256,271.2,298.5,293.9,274.4,,CHI,Byron,Pringle,WR,5199,WR96
+10-Aug-22,255.6,255.1,267.7,284.2,274.2,241.5,,CIN,Samaje,Perine,RB,4147,RB71
+10-Aug-22,257.6,236.1,273.5,255.2,234.4,230.6,397.1,ATL,Bryan,Edwards,WR,6870,WR97
+10-Aug-22,258.8,230,277.1,261.2,266.3,278.8,,NYJ,C.J.,Uzomah,TE,2460,TE32
+10-Aug-22,259.5,273.9,251.4,211.4,268.8,223.8,,MIA,Myles,Gaskin,RB,5980,RB72
+10-Aug-22,260.7,260.2,239,181.8,186,177.7,335.5,NE,Tyquan,Thornton,WR,8188,WR98
+10-Aug-22,261.4,268.4,265.6,201.9,263.4,217.8,353.3,CLE,Chris,Carson,RB,4273,RB73
+10-Aug-22,262.8,271.8,274,199.1,207.3,188.9,261.1,KC,Justyn,Ross,WR,8140,WR99
+10-Aug-22,263.3,,,,,,,CIN,Cincinnati,Bengals,DEF,CIN,DEF14
+10-Aug-22,263.9,294.1,254.5,,,,,TB,Kyle,Rudolph,TE,943,TE33
+10-Aug-22,265.2,,282.4,269.9,,,,CLE,Cleveland,Browns,DEF,CLE,DEF15
+10-Aug-22,266.2,,283.2,274.1,,,,PHI,Philadelphia,Eagles,DEF,PHI,DEF16
+10-Aug-22,267,,255.4,277.7,,,,MIA,Miami,Dolphins,DEF,MIA,DEF17
+10-Aug-22,268.5,,285.5,,,298.6,,TEN,Tennessee,Titans,DEF,TEN,DEF18
+10-Aug-22,269.8,238.4,258.5,,,,,KC,Jerick,McKinnon,RB,2161,RB74
+10-Aug-22,270.4,298.1,,,277.3,,,BAL,James,Proche,WR,6957,WR100
+10-Aug-22,271.4,242.4,287.5,244.6,243.4,255.6,394.1,TB,Cade,Otton,TE,8111,TE34
+10-Aug-22,271.8,243.9,260.5,205.9,218.3,203.7,342.4,KC,Isiah,Pacheco,RB,8205,RB75
+10-Aug-22,273.6,,257,,,,,WAS,Washington,Commanders,DEF,WAS,DEF19
+10-Aug-22,274.8,245.1,263.9,280,254.2,236.9,,ARI,Eno,Benjamin,RB,6951,RB76
+10-Aug-22,275.7,244.7,221.9,199.2,209.9,194.9,351.2,BAL,Tyler,Badie,RB,8208,RB77
+10-Aug-22,276.5,252.6,269.1,285.3,292,269.3,,PHI,Boston,Scott,RB,5122,RB78
+10-Aug-22,277,239.7,287.1,252.5,235.8,231.2,382.2,NYG,Daniel,Bellinger,TE,8225,TE35
+10-Aug-22,278.4,258.7,271.8,283.5,284,,,LAC,Jalen,Guyton,WR,6421,WR101
+10-Aug-22,279.7,250.8,291,,,,,NYJ,Tyler,Conklin,TE,5133,TE36
+10-Aug-22,279.9,251.2,229.6,255.6,267.1,227.4,,NYG,Matt,Breida,RB,4455,RB79
+10-Aug-22,281.2,249,,,283.6,,,SF,Jauan,Jennings,WR,7049,WR102
+10-Aug-22,282.1,247.1,286.5,207.8,211.7,206.7,341.9,DEN,Greg,Dulcich,TE,8172,TE37
+10-Aug-22,283.6,246.7,263.4,288,263.1,263,,TEN,Nick,Westbrook-Ikhine,WR,7496,WR103
+10-Aug-22,284.2,253.9,261.7,212.7,215,205.3,351.2,CHI,Velus,Jones,WR,8223,WR104
+10-Aug-22,285.6,263.7,270.3,257.8,246.9,238.1,,GB,Amari,Rodgers,WR,7540,WR105
+10-Aug-22,286,,299.9,,,,,BAL,Mike,Davis,RB,2431,RB80
+10-Aug-22,287.3,234.7,276.5,,273.7,,,NE,Jonnu,Smith,TE,4144,TE38
+10-Aug-22,287.3,259.5,,294.7,262.9,263.9,,MIA,Cedrick,Wilson,WR,5113,WR106
+10-Aug-22,289.8,177.7,293.7,,187.2,,317,SF,Jimmy,Garoppolo,QB,1837,QB33
+10-Aug-22,290.6,197.5,295.8,193,135.6,191.6,223.7,ATL,Desmond,Ridder,QB,8159,QB34
+10-Aug-22,291.9,237.3,279.8,,245.5,275,,NO,Adam,Trautman,TE,6869,TE39
+10-Aug-22,292.6,261.3,275.3,166.4,173.6,166.7,305.1,IND,Jelani,Woods,TE,8219,TE40
+10-Aug-22,293.7,,290.4,197,202.7,191.6,349.8,NE,Pierre,Strong,RB,8116,RB81
+10-Aug-22,294.7,276.2,,262.4,257.8,233.8,,TB,Ke'Shawn,Vaughn,RB,6885,RB82
+10-Aug-22,295.2,271.7,,,,279.9,,NYJ,Braxton,Berrios,WR,5121,WR107
+10-Aug-22,295.7,277.1,,,,,,ATL,Damien,Williams,RB,1833,RB83
+10-Aug-22,297.4,269,,,297.2,,,NYG,Sterling,Shepard,WR,3200,WR108
+10-Aug-22,298.6,266.4,279.9,,286.5,,,DAL,James,Washington,WR,5024,WR109
+10-Aug-22,299.3,275.8,278.4,,,,,NE,James,White,RB,1848,RB84
+10-Aug-22,,183.1,,,239.3,,365.6,CLE,Jacoby,Brissett,QB,3257,QB35
+10-Aug-22,,183.7,,,207.7,,359.5,SEA,Drew,Lock,QB,5854,QB36
+10-Aug-22,,210.7,,,252.6,,,SEA,Geno,Smith,QB,1373,QB37
+10-Aug-22,,221,,,223.6,,,CAR,Sam,Darnold,QB,4943,QB38
+10-Aug-22,,231.9,289.6,175.5,135.1,179.4,205,TEN,Malik,Willis,QB,8161,QB39
+10-Aug-22,,241,259.8,287.6,287.7,251.5,,SF,Jeff,Wilson,RB,5284,RB85
+10-Aug-22,,254.3,292.2,,291.6,,,LAC,Donald,Parham,TE,6074,TE41
+10-Aug-22,,257.8,,293.3,255.1,,,CAR,Tommy,Tremble,TE,7694,TE42
+10-Aug-22,,262.8,,,244.2,,,BAL,Tyler,Huntley,QB,7083,QB40
+10-Aug-22,,263.8,294.3,247.1,229.5,209.8,,JAX,Snoop,Conner,RB,8179,RB86
+10-Aug-22,,265.5,,,,,,BUF,O.J.,Howard,TE,4055,TE43
+10-Aug-22,,267,297.8,,,,,HOU,Rex,Burkhead,RB,1387,RB87
+10-Aug-22,,270.3,,265.5,169,234.6,300.1,CAR,Matt,Corral,QB,8164,QB41
+10-Aug-22,,274.2,,207.7,201.1,195.1,267.1,LAR,Kyren,Williams,RB,8150,RB88
+10-Aug-22,,299.5,,279.3,279.6,255.8,,PIT,Benny,Snell,RB,6156,RB89
+10-Aug-22,,,,135.1,150.5,137.7,214.5,ATL,Calvin,Ridley,WR,4981,WR110
+10-Aug-22,,,,178.3,185.2,171.1,348.7,BUF,Khalil,Shakir,WR,8134,WR111
+10-Aug-22,,,,,205.7,,377,WAS,Sam,Howell,QB,8162,QB42
+10-Aug-22,,,,286.8,217.5,,389.9,GB,Jordan,Love,QB,6804,QB43
+10-Aug-22,,,298.6,214.4,225.1,216,398.3,PIT,Calvin,Austin,WR,8125,WR112
+10-Aug-22,,,,,241.9,,,TB,Kyle,Trask,QB,7605,QB44
+10-Aug-22,,,,263.1,247.2,231,,SF,Danny,Gray,WR,8176,WR113
+10-Aug-22,,,,263.8,247.9,237.9,,TEN,Kyle,Philips,WR,8171,WR114
+10-Aug-22,,,296,259.2,251,242,,NO,Abram,Smith,RB,8190,RB90
+10-Aug-22,,,,266.2,258.7,239.7,,MIN,Ty,Chandler,RB,8230,RB91
+10-Aug-22,,,,290.8,260.4,270.9,,DAL,Jake,Ferguson,TE,8110,TE44
+10-Aug-22,,,,,261.2,259.5,,CLE,Jerome,Ford,RB,8143,RB92
+10-Aug-22,,,,,265.2,,,TEN,Chigoziem,Okonkwo,TE,8210,TE45
+10-Aug-22,,,,,269.4,266.3,,NE,Kevin,Harris,RB,8174,RB93
+10-Aug-22,,,,,270.5,,,PHI,Gardner,Minshew,QB,6011,QB45
+10-Aug-22,,,,299.9,271.3,258.9,,NO,Marquez,Callaway,WR,6989,WR115
+10-Aug-22,,,,278,278.7,261.4,,BAL,Isaiah,Likely,TE,8131,TE46
+10-Aug-22,,,,,279.8,,,MIN,Kellen,Mond,QB,7581,QB46
+10-Aug-22,,,,,285.4,276.8,,NYJ,Jeremy,Ruckert,TE,8145,TE47
+10-Aug-22,,,,,289.4,271.7,,CLE,Anthony,Schwartz,WR,7533,WR116
+10-Aug-22,,,,,290.7,,,NYG,Jashaun,Corbin,RB,8194,RB94
+10-Aug-22,,,,,294.1,,,MIA,Teddy,Bridgewater,QB,2152,QB47
+10-Aug-22,,,,,295.1,,,PHI,Quez,Watkins,WR,6927,WR117
+10-Aug-22,,,,,295.6,279.1,,PHI,Kennedy,Brooks,RB,8152,RB95
+10-Aug-22,,,,,298.5,273.8,,CHI,Trestan,Ebner,RB,8189,RB96
+10-Aug-22,,,,297.3,299.4,262.4,,BUF,Zack,Moss,RB,6845,RB97
+10-Aug-22,,,,275.6,,,,CLE,Cade,York,K,8258,K14
+10-Aug-22,,,,,,,54.1,DAL,Micah,Parsons,LB,7640,LB1
+10-Aug-22,,,,,,,55,PIT,T.J.,Watt,LB,4070,LB2
+10-Aug-22,,,,,,,66.1,CHI,Roquan,Smith,LB,4960,LB3
+10-Aug-22,,,,,,,71.1,IND,Shaquille,Leonard,LB,4990,LB4
+10-Aug-22,,,,,,,78.6,TB,Devin,White,LB,6119,LB5
+10-Aug-22,,,,,,,79.9,CLE,Myles,Garrett,DE,3973,DE1
+10-Aug-22,,,,,,,84.6,SF,Nick,Bosa,DE,5816,DE2
+10-Aug-22,,,,,,,90.7,SEA,Jordyn,Brooks,LB,6949,LB6
+10-Aug-22,,,,,,,95.4,LAC,Derwin,James,DB,4971,DB1
+10-Aug-22,,,,,,,98.6,SF,Fred,Warner,LB,5041,LB7
+10-Aug-22,,,,,,,102.2,LAR,Aaron,Donald,DT,2227,DT1
+10-Aug-22,,,,,,,108.1,LAC,Joey,Bosa,LB,3156,LB8
+10-Aug-22,,,,,,,114.7,JAX,Foye,Oluokun,LB,5332,LB9
+10-Aug-22,,,,,,,118.8,ARI,Budda,Baker,DB,4081,DB2
+10-Aug-22,,,,,,,119.1,ARI,Isaiah,Simmons,LB,6781,LB10
+10-Aug-22,,,,,,,121.4,PIT,Minkah,Fitzpatrick,DB,4963,DB3
+10-Aug-22,,,,,,,124.3,LAR,Bobby,Wagner,LB,1233,LB11
+10-Aug-22,,,,,,,126.1,WAS,Chase,Young,DE,6782,DE3
+10-Aug-22,,,,,,,127.9,SEA,Jamal,Adams,SS,4077,SS1
+10-Aug-22,,,,,,,129.3,CAR,Jeremy,Chinn,DB,7016,DB4
+10-Aug-22,,,,,,,134.3,DAL,Trevon,Diggs,CB,6809,CB1
+10-Aug-22,,,,,,,135.2,CAR,Brian,Burns,DE,5862,DE4
+10-Aug-22,,,,,,,139.8,LV,Maxx,Crosby,DE,5991,DE5
+10-Aug-22,,,,,,,140.7,TB,Antoine,Winfield,DB,6888,DB5
+10-Aug-22,,,,,,,141.9,BAL,Patrick,Queen,LB,6807,LB12
+10-Aug-22,,,,,,,143.8,NYJ,C.J.,Mosley,LB,1875,LB13
+10-Aug-22,,,,,,,149,MIN,Eric,Kendricks,LB,2350,LB14
+10-Aug-22,,,,,,,151.9,CIN,Logan,Wilson,LB,6880,LB15
+10-Aug-22,,,,,,,153.2,DET,Aidan,Hutchinson,DL,8289,DL1
+10-Aug-22,,,,,,,157.4,IND,DeForest,Buckner,DT,3172,DT2
+10-Aug-22,,,,,,,158.4,GB,De'Vondre,Campbell,LB,3276,LB16
+10-Aug-22,,,,,,,159.2,CIN,Jessie,Bates,DB,5017,DB6
+10-Aug-22,,,,,,,159.7,BAL,Kyle,Hamilton,DB,8339,DB7
+10-Aug-22,,,,,,,163,NYG,Blake,Martinez,LB,3291,LB17
+10-Aug-22,,,,,,,165.2,NYG,Kayvon,Thibodeaux,DL,8355,DL2
+10-Aug-22,,,,,,,166,BUF,Jordan,Poyer,DB,1343,DB8
+10-Aug-22,,,,,,,167.8,WAS,Cole,Holcomb,LB,6220,LB18
+10-Aug-22,,,,,,,167.8,CLE,Jeremiah,Owusu-Koramoah,LB,7651,LB19
+10-Aug-22,,,,,,,189.3,MIN,Danielle,Hunter,DE,2393,DE6
+10-Aug-22,,,,,,,191.2,JAX,Josh,Allen,DE,5840,DE7
+10-Aug-22,,,,,,,192,NYG,Xavier,McKinney,DB,6788,DB9
+10-Aug-22,,,,,,,194.8,BUF,Tremaine,Edmunds,LB,4968,LB20
+10-Aug-22,,,,,,,195,CIN,Trey,Hendrickson,DE,4135,DE8
+10-Aug-22,,,,,,,196.2,LAR,Jalen,Ramsey,CB,3160,CB2
+10-Aug-22,,,,,,,197.5,DEN,Justin,Simmons,DB,3262,DB10
+10-Aug-22,,,,,,,198.2,KC,Nick,Bolton,LB,7648,LB21
+10-Aug-22,,,,,,,199.6,DEN,Pat,Surtain,CB,7641,CB3
+10-Aug-22,,,,,,,202.4,JAX,Devin,Lloyd,LB,8329,LB22
+10-Aug-22,,,,,,,203.5,CIN,Sam,Hubbard,DE,5015,DE9
+10-Aug-22,,,,,,,206.1,TB,Shaquil,Barrett,LB,1999,LB23
+10-Aug-22,,,,,,,207.8,NYJ,Sauce,Gardner,DB,8290,DB11
+10-Aug-22,,,,,,,208,TEN,Harold,Landry,LB,5030,LB24
+10-Aug-22,,,,,,,209.6,NE,Kyle,Dugger,DB,6872,DB12
+10-Aug-22,,,,,,,211.4,PHI,Kyzir,White,LB,5348,LB25
+10-Aug-22,,,,,,,212,ATL,Deion,Jones,LB,3222,LB26
+10-Aug-22,,,,,,,213,TEN,Kevin,Byard,DB,3233,DB13
+10-Aug-22,,,,,,,215.6,IND,Bobby,Okereke,LB,5944,LB27
+10-Aug-22,,,,,,,217.9,PHI,Haason,Reddick,LB,4063,LB28
+10-Aug-22,,,,,,,219.8,JAX,Travon,Walker,lb,8265,lb29
+10-Aug-22,,,,,,,220.4,IND,Kenny,Moore,CB,4427,CB4
+10-Aug-22,,,,,,,221.3,BUF,Greg,Rousseau,DE,7627,DE10
+10-Aug-22,,,,,,,228.8,LAC,Khalil,Mack,LB,2036,LB30
+10-Aug-22,,,,,,,229,MIA,Jevon,Holland,DB,7666,DB14
+10-Aug-22,,,,,,,232,PIT,Cameron,Heyward,DT,843,DT3
+10-Aug-22,,,,,,,233.3,TEN,Jeffery,Simmons,DT,6125,DT4
+10-Aug-22,,,,,,,235.3,ARI,Jalen,Thompson,DB,6711,DB15
+10-Aug-22,,,,,,,236.5,BAL,Marlon,Humphrey,CB,4071,CB5
+10-Aug-22,,,,,,,237,TEN,Zach,Cunningham,LB,4110,LB31
+10-Aug-22,,,,,,,238.2,NO,Tyrann,Mathieu,DB,1576,DB16
+10-Aug-22,,,,,,,239.2,BUF,Von,Miller,LB,871,LB32
+10-Aug-22,,,,,,,241.1,TB,Lavonte,David,LB,1192,LB33
+10-Aug-22,,,,,,,243,PHI,Nakobe,Dean,LB,8267,LB34
+10-Aug-22,,,,,,,244.2,WAS,Montez,Sweat,DE,6124,DE11
+10-Aug-22,,,,,,,247.5,NYJ,Quincy,Williams,LB,6214,LB35
+10-Aug-22,,,,,,,249.2,CIN,Vonn,Bell,DB,3230,DB17
+10-Aug-22,,,,,,,252.3,NO,Cameron,Jordan,DE,957,DE12
+10-Aug-22,,,,,,,257.7,HOU,Derek,Stingley,DB,8308,DB18
+10-Aug-22,,,,,,,279.9,MIA,Jaelan,Phillips,LB,7635,LB36
+10-Aug-22,,,,,,,281.7,NE,Matt,Judon,LB,3303,LB37
+10-Aug-22,,,,,,,282.8,ATL,A.J.,Terrell,CB,6836,CB6
+10-Aug-22,,,,,,,283.6,MIN,Harrison,Smith,DB,1213,DB19
+10-Aug-22,,,,,,,284.8,GB,Rashan,Gary,LB,5839,LB38
+10-Aug-22,,,,,,,285.4,DEN,Bradley,Chubb,LB,4967,LB39
+10-Aug-22,,,,,,,286.4,LV,Denzel,Perryman,LB,2353,LB40
+10-Aug-22,,,,,,,287.1,PIT,Myles,Jack,LB,3166,LB41
+10-Aug-22,,,,,,,287.9,LAC,J.C.,Jackson,DB,5193,DB20
+10-Aug-22,,,,,,,289.8,WAS,Kamren,Curl,DB,7136,DB21
+10-Aug-22,,,,,,,290,PHI,Jordan,Davis,DL,8269,DL3
+10-Aug-22,,,,,,,291.1,GB,Quay,Walker,LB,8266,LB42
+10-Aug-22,,,,,,,293.4,MIN,Lewis,Cine,DB,8268,DB22
+10-Aug-22,,,,,,,294.4,PIT,Alex,Highsmith,LB,7113,LB43
+10-Aug-22,,,,,,,295.7,NYJ,Quinnen,Williams,DT,6118,DT5
+10-Aug-22,,,,,,,295.8,MIA,Jerome,Baker,LB,5056,LB44
+10-Aug-22,,,,,,,297.9,NO,Demario,Davis,LB,1052,LB45
+10-Aug-22,,,,,,,298.9,WAS,Jonathan,Allen,DT,4032,DT6
+10-Aug-22,,,,,,,299.5,CAR,Shaq,Thompson,LB,2330,LB46
+10-Aug-22,,,,,,,301.7,TB,Logan,Ryan,DB,1367,DB23
+10-Aug-22,,,,,,,303.3,ARI,Zaven,Collins,LB,7637,LB47
+10-Aug-22,,,,,,,303.9,LAR,Taylor,Rapp,DB,5882,DB24
+10-Aug-22,,,,,,,306.1,LV,Chandler,Jones,LB,1038,LB48
+10-Aug-22,,,,,,,307.7,PIT,Devin,Bush,LB,5843,LB49
+10-Aug-22,,,,,,,310.4,LV,Johnathan,Abram,DB,5860,DB25
+10-Aug-22,,,,,,,311.9,NYG,Leonard,Williams,DE,2311,DE13
+10-Aug-22,,,,,,,313.5,BAL,Odafe,Oweh,LB,7626,LB50
+10-Aug-22,,,,,,,319.4,NO,Marcus,Davenport,DE,4965,DE14
+10-Aug-22,,,,,,,322.6,NE,Jabrill,Peppers,DB,4056,DB26
+10-Aug-22,,,,,,,323.4,NYJ,Jermaine,Johnson,LB,8398,LB51
+10-Aug-22,,,,,,,325.1,MIN,Jordan,Hicks,LB,2389,LB52
+10-Aug-22,,,,,,,327,IND,Kwity,Paye,DE,7633,DE15
+10-Aug-22,,,,,,,327.3,KC,George,Karlaftis,DL,8385,DL4
+10-Aug-22,,,,,,,329.5,SEA,Quandre,Diggs,DB,2501,DB27
+10-Aug-22,,,,,,,330.1,DAL,Demarcus,Lawrence,DE,2064,DE16
+10-Aug-22,,,,,,,331.2,IND,Yannick,Ngakoue,DE,3238,DE17
+10-Aug-22,,,,,,,333.5,MIA,Xavien,Howard,CB,3215,CB7
+10-Aug-22,,,,,,,336,CHI,Jaquan,Brisker,DB,8323,DB28
+10-Aug-22,,,,,,,339.9,NO,Marshon,Lattimore,CB,4059,CB8
+10-Aug-22,,,,,,,357.8,HOU,Christian,Kirksey,LB,1905,LB53
+10-Aug-22,,,,,,,359.3,NYG,Azeez,Ojulari,LB,7653,LB54
+10-Aug-22,,,,,,,361,MIA,Christian,Wilkins,DT,6120,DT7
+10-Aug-22,,,,,,,362.9,KC,Chris,Jones,DT,3558,DT8
+10-Aug-22,,,,,,,363,LAR,Jordan,Fuller,DB,6968,DB29
+10-Aug-22,,,,,,,364.3,WAS,Jamin,Davis,LB,7634,LB55
+10-Aug-22,,,,,,,366.6,GB,Jaire,Alexander,CB,4979,CB9
+10-Aug-22,,,,,,,367.2,IND,Nick,Cross,DB,8392,DB30
+10-Aug-22,,,,,,,367.8,TEN,David,Long,LB,5928,LB56
+10-Aug-22,,,,,,,369.1,MIN,Za'Darius,Smith,LB,2427,LB57
+10-Aug-22,,,,,,,370,PHI,T.J.,Edwards,LB,5960,LB58
+10-Aug-22,,,,,,,371.6,DAL,Jayron,Kearse,DB,3399,DB31
+10-Aug-22,,,,,,,372.4,KC,Leo,Chenal,LB,8362,LB59
+10-Aug-22,,,,,,,373.2,BUF,Ed,Oliver,DT,5841,DT9
+10-Aug-22,,,,,,,374.8,BUF,Matt,Milano,LB,4191,LB60
+10-Aug-22,,,,,,,375.8,BAL,David,Ojabo,DL,8287,DL5
+10-Aug-22,,,,,,,378.6,PHI,Josh,Sweat,DE,4999,DE18
+10-Aug-22,,,,,,,379.9,LAC,Nasir,Adderley,DB,5881,DB32
+10-Aug-22,,,,,,,380.4,SEA,Cody,Barton,LB,6065,LB61
+10-Aug-22,,,,,,,383.5,KC,Justin,Reid,DB,5036,DB33
+10-Aug-22,,,,,,,385.6,CHI,Robert,Quinn,LB,967,LB62
+10-Aug-22,,,,,,,387.5,SF,Azeez,Al-Shaair,LB,6485,LB63
+10-Aug-22,,,,,,,388.8,DET,Tracy,Walker,DB,5064,DB34
+10-Aug-22,,,,,,,391.4,NO,Pete,Werner,LB,7647,LB64
+10-Aug-22,,,,,,,391.5,CHI,Eddie,Jackson,DB,4158,DB35
+10-Aug-22,,,,,,,395.2,GB,Adrian,Amos,DB,2445,DB36
+10-Aug-22,,,,,,,396.2,CLE,John,Johnson,DB,4133,DB37
+10-Aug-22,,,,,,,399.3,LAR,Leonard,Floyd,LB,3174,LB65
+10-Aug-22,,,,,,,399.6,ARI,J.J.,Watt,DE,856,DE19
+10-Aug-22,,,284.3,,,,,KC,Kansas City,Chiefs,DEF,KC,DEF20
